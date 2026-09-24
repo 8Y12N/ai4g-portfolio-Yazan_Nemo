@@ -1,4 +1,4 @@
-# Term 1 - Week 4: Strings, Text & Files
+# Term 1 - Week 3: Lists & Dictionaries
 
 ---
 
