@@ -50,6 +50,8 @@ I've build the project with my own
 **Ethical reflection — what are the risks of your tool? Who could it harm?**
 The biggest risk is that the AI quietly changes the meaning of a sentence without the student realizing. It might drop an important detail, weaken a strong claim, or make something sound more certain than the original paper intended. For example, "may correlate with" could become "causes." If a student then uses or cites the simplified version, they'd be spreading wrong information.
 
+This is not theoretical: LLMs produce factual errors in 3–27% of summarized claims depending on document complexity (Maynez et al., 2020, "Faithfulness and Factuality in Generative Abstractive Summarization", ACL 2020). The risk is highest for students who cannot verify accuracy themselves — exactly the target group.
+
 I mitigate this with:
 (1) side-by-side original vs. simplified view, so students can always verify against the source text
 (2) math and algorithms are explicitly left untouched by the prompt, reducing the chance of technical distortion
