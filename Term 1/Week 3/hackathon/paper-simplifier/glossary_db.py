@@ -5,7 +5,6 @@ DB_PATH = "glossary.db"
 
 
 def init_db():
-    """Creates the glossary table if it doesn't exist yet."""
     conn = sqlite3.connect(DB_PATH)
     cursor = conn.cursor()
     cursor.execute("""
@@ -21,11 +20,6 @@ def init_db():
 
 
 def add_terms(terms: list[dict], source_paper: str = "unknown"):
-    """
-    Inserts or overwrites glossary terms.
-    terms: list of {"term": ..., "definition": ...}
-    Overwrite policy: newest definition always wins (per earlier decision).
-    """
     conn = sqlite3.connect(DB_PATH)
     cursor = conn.cursor()
     now = datetime.utcnow().isoformat()
@@ -45,7 +39,6 @@ def add_terms(terms: list[dict], source_paper: str = "unknown"):
 
 
 def get_all_terms() -> list[dict]:
-    """Returns the full glossary, most recently updated first."""
     conn = sqlite3.connect(DB_PATH)
     conn.row_factory = sqlite3.Row
     cursor = conn.cursor()
