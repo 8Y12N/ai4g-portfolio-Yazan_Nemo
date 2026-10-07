@@ -9,10 +9,6 @@ client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
 MODEL_NAME = "gemini-3.1-flash-lite"
 
 def check_domain(paper_text: str) -> bool:
-    """
-    Quick check: is this an IT/Computer Science paper?
-    Returns True if likely IT-related, False otherwise.
-    """
     prompt = f"""You are a strict classifier. Read the excerpt below and answer with ONLY one word: "YES" or "NO".
 Question: Is this text from an IT / Computer Science academic paper (e.g. software engineering, AI, networks, databases, algorithms)?
 
@@ -30,12 +26,6 @@ Answer:"""
 
 
 def simplify_paper(paper_text: str) -> dict:
-    """
-    Sends the paper text to Gemini and returns a dict with:
-      - sections: list of {heading, original, simplified}
-      - glossary: list of {term, definition}
-    Math/algorithms are explicitly left untouched.
-    """
     prompt = f"""You are an assistant that helps bachelor-level IT students understand academic papers.
 
 Rules:

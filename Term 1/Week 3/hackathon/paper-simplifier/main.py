@@ -27,10 +27,6 @@ async def simplify(
     text: str = Form(None),
     file: UploadFile = File(None)
 ):
-    """
-    Accepts EITHER pasted text OR an uploaded PDF (not both).
-    Runs domain check, then simplification, then saves glossary terms.
-    """
     paper_text = ""
 
     if file is not None:
