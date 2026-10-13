@@ -1,0 +1,9 @@
+time_utc,service,lang,text
+2026-10-13T08:32:59+00:00,chatgpt,en,ℹ️ Reporting a minor issue with ChatGPT: We are investigating degraded performance in GPT-6.1 Sol Work mode. Monitor this incident at https://watchrr.app/service/chatgpt
+2026-10-13T08:35:23+00:00,openai,en,⚠️ OpenAI is reporting an incident: Degraded performance in GPT-6.1 Sol Work mode  https://status.openai.com//incidents/01M4T4ZCM54D3ZPTQXRSWFG0XS
+2026-10-13T08:37:32+00:00,chatgpt,en,Investigating: 1 Sol Codex and Work mode Affected components CLI (Degraded performance) ChatGPT Work (Degraded performance) Codex API (Degraded performance) Codex Web (Degraded performance) VS Code extension (Degraded performance)
+2026-10-13T08:37:34+00:00,chatgpt,,Is ChatGPT having problems right now? Yes—OpenAI's official status page is reporting a degraded service: Degraded performance in GPT-6.1 Sol Work mode. Check your retries before changing production.
+2026-10-13T08:39:33+00:00,openai,,"🟠 OpenAI is reporting a Partial Outage since 08:18 UTC  ""Degraded performance in GPT-6.1 Sol Work mode""  Affects: Codex Web, Codex API, CLI, +2 more  Live timeline → https://pingoru.io/providers/openai/incidents/12273266  #OpenAI #OpenAIDown"
+2026-10-13T08:39:43+00:00,openai,en,OpenAI: Investigating degraded performance in GPT-6.1
+2026-10-13T08:40:49+00:00,chatgpt,en,Investigating: Affected components CLI (Degraded performance) ChatGPT Work (Degraded performance) Codex API (Degraded performance) Codex Web (Degraded performance) VS Code extension (Degraded performance)
+2026-10-13T08:42:20+00:00,chatgpt,,Is ChatGPT having problems right now? Yes—OpenAI's official status page is reporting a degraded service: Degraded performance in GPT-6.1 Sol Codex and Work mode. Check your retries before changing production.
