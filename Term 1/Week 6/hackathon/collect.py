@@ -8,7 +8,7 @@ SERVICES = [
     "akamai", "fastly", "digitalocean", "heroku", "vercel", "netlify", "oracle cloud",
     # platforms / work tools
     "github", "gitlab", "slack", "discord", "microsoft 365", "office 365", "outlook",
-    "teams", "gmail", "google drive", "zoom", "whatsapp", "chatgpt", "openai",
+    "microsoft teams", "ms teams", "gmail", "google drive", "zoom", "whatsapp", "chatgpt", "openai",
     # Dutch internet / telecom
     "kpn", "ziggo", "odido", "t-mobile", "vodafone", "delta fiber", "caiway",
     # Dutch digital public services / banking
