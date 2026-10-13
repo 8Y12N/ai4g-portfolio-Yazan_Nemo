@@ -48,3 +48,4 @@ time_utc,service,lang,text,sentiment,score
 2026-10-13T19:24:23+00:00,ziggo,,"Ziggo heeft last van een storing in meerdere wijken in Utrecht. Daardoor kunnen mensen niet internetten, bellen of tv-kijken. Een woordvoerder van de provider zegt dat de storing zo'n 20.000 aansluitingen treft.",negative,0.758
 2026-10-13T19:31:13+00:00,azure,en,"If you missed Hero League: Nightfall (which is understandable since it's a fictional movie), Lena Queen (the second Azure Archer) tells Dan a bit about what went down.",neutral,0.646
 2026-10-13T20:11:30+00:00,slack,en,I'm gonna say 100 times because the fash are down a bot farm and they gotta pick up the slack,negative,0.773
+2026-10-13T20:32:34+00:00,ideal,en,"I only have to worry about this in the off time when I’m not working, but now that the heat isn’t so extreme I really want to practice and hopefully overcome these feelings.  I just feel like my location generally isn’t ideal for this",negative,0.757
