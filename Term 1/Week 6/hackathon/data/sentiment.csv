@@ -90,3 +90,4 @@ time_utc,service,lang,text,sentiment,score
 2026-10-14T13:51:47+00:00,cloudflare,,Reposted: When the Internet Stumbles: Lessons from Cloudflare & Azure Front Door Outages https://www.dcac.com/2025/12/08/when-the-internet-stumbles-lessons-from-cloudflare-azure-front-door-outages/,neutral,0.526
 2026-10-14T13:56:09+00:00,openai,en,"The openai-status feed listed an incident titled ""Degraded performance in GPT-6.1 Sol Codex and Work mode"" at ""https://status.openai.com//incidents/01M4T4ZCM54D3ZPTQXRSWFG0XS"".  diffwire.dev/changes/2c41...",negative,0.649
 2026-10-14T15:00:15+00:00,whatsapp,en,"""Volgens Meta zou er sprake zijn van ""een technische storing"". Waarom socialemedia-accounts van de Bolsonaro's daar geen last van hebben, wordt niet duidelijk.""  Fuck Instagram en Whatsapp.",negative,0.893
+2026-10-14T15:21:57+00:00,microsoft 365,en,Haha Microsoft 365 is down i fucking love cloud software,negative,0.541
