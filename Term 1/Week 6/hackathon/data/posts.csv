@@ -75,3 +75,4 @@ time_utc,service,lang,text
 2026-10-14T07:26:38+00:00,github,en,Yes exactly.  Also hard to rely on GitHub being up these days - so storing more events in event-sourced source control system just makes sense 😀
 2026-10-14T08:13:09+00:00,discord,it,"i was in a discord server once where some kid in his first year of film school was posting his thoughts on Bonnie and Clyde in real time and he'd say ""this isn't how it went down!!!"" and i knew right then and there he'd never finish film school, and i was right"
 2026-10-14T08:38:29+00:00,zoom,,"🟠 Zapier is reporting a Partial Outage since 08:21 UTC  ""Zoom Team Chat App connection failure""  Live timeline → https://pingoru.io/providers/zapier/incidents/12296171  #Zapier #ZapierDown"
+2026-10-14T09:20:29+00:00,chatgpt,en,Identified: We are still implementing the mitigation. Affected components ChatGPT Work (Degraded performance) Codex in ChatGPT Desktop (Degraded performance)
