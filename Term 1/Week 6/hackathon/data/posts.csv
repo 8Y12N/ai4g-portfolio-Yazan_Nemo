@@ -79,3 +79,4 @@ time_utc,service,lang,text
 2026-10-14T09:45:08+00:00,zoom,en,✅ The earlier minor outage affecting Sandbox creation within ZoomMate has been resolved. All services are fully restored. View full incident report at https://watchrr.app/service/zoom
 2026-10-14T09:54:06+00:00,chatgpt,en,"✅ The earlier minor outage affecting ChatGPT, including degraded performance in Codex and ChatGPT Work, has been fully resolved. All impacted services have now fully recovered. View full incident report at https://watchrr.app/service/chatgpt"
 2026-10-14T09:55:28+00:00,openai,en,✅ Resolved: OpenAI - Degraded performance in Codex and ChatGPT Work
+2026-10-14T10:20:28+00:00,openai,en,⚠️ OpenAI is reporting an incident: Limited availability on gpt-image-2.5-flare and gpt-image-2.5-sunburst  Investigating: 5-flare and gpt-image-2.5-sunburst in the API. Affected components Images (Degraded performance)  https://status.openai.com//incidents/01M4WYPP5QA0CJ3JV76KH285K8
