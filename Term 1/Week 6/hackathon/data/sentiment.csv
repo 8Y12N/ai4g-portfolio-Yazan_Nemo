@@ -112,3 +112,4 @@ time_utc,service,lang,text,sentiment,score
 2026-10-14T22:03:30+00:00,aws,en,"ARC Region switch adds four new capabilities  AWS adds features to help you recover from AWS outages, including auto-requesting quota increases because they know their own limits will bite you during disasters. Nothing says ""enterprise ready"" like needing a service to survive your service.",neutral,0.429
 2026-10-14T22:06:33+00:00,aws,en,"AWS Transfer Family now supports storing SFTP server host keys in AWS Secrets Manager, enabling better control, easier migrations, and key reuse across servers and regions.",positive,0.567
 2026-10-14T22:14:26+00:00,kpn,nl,Het is een storing. community.kpn.com/kpn-tv-11/st...,negative,0.8
+2026-10-14T22:17:13+00:00,cloudflare,en,Ukraine did not take Russian social media bots offline by bombing a server farm blog.cloudflare.com/yandex-outage/,negative,0.776
