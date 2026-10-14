@@ -110,3 +110,5 @@ time_utc,service,lang,text
 2026-10-14T21:31:10+00:00,cloudflare,,"Yandex outage: data shows that instead of going dark, malicious bots moved https://blog.cloudflare.com/yandex-outage/ (https://news.ycombinator.com/item?id=50094673)"
 2026-10-14T21:45:14+00:00,cloudflare,en,"Yandex outage: data shows that instead of going dark, malicious bots moved https://blog.cloudflare.com/yandex-outage/  https://news.ycombinator.com/item?id=50094673"
 2026-10-14T22:03:30+00:00,aws,en,"ARC Region switch adds four new capabilities  AWS adds features to help you recover from AWS outages, including auto-requesting quota increases because they know their own limits will bite you during disasters. Nothing says ""enterprise ready"" like needing a service to survive your service."
+2026-10-14T22:06:33+00:00,aws,en,"AWS Transfer Family now supports storing SFTP server host keys in AWS Secrets Manager, enabling better control, easier migrations, and key reuse across servers and regions."
+2026-10-14T22:14:26+00:00,kpn,nl,Het is een storing. community.kpn.com/kpn-tv-11/st...
