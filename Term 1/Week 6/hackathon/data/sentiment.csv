@@ -104,3 +104,5 @@ time_utc,service,lang,text,sentiment,score
 2026-10-14T20:31:04+00:00,zoom,en,✅ We've resolved the earlier minor outage affecting Zoom Clips. Service for Zoom is now fully restored. View full incident report at https://watchrr.app/service/zoom,neutral,0.561
 2026-10-14T20:56:13+00:00,cloudflare,,"Yandex outage: data shows that instead of going dark, malicious bots moved https://blog.cloudflare.com/yandex-outage/ (https://news.ycombinator.com/item?id=50094673)",negative,0.813
 2026-10-14T21:00:52+00:00,cloudflare,en,"Yandex outage: data shows that instead of going dark, malicious bots moved  https://blog.cloudflare.com/yandex-outage/",negative,0.826
+2026-10-14T21:16:02+00:00,cloudflare,,"Yandex outage: data shows that instead of going dark, malicious bots moved (blog.cloudflare.com)  Discussion | Main Link",negative,0.783
+2026-10-14T21:16:38+00:00,cloudflare,,"Yandex outage: data shows that instead of going dark, malicious bots moved  #HackerNews  https://blog.cloudflare.com/yandex-outage/",negative,0.791
