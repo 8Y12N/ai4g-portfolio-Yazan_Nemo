@@ -87,3 +87,4 @@ time_utc,service,lang,text,sentiment,score
 2026-10-14T12:32:05+00:00,github,ja,"📦 ismailnakkar/laravel-wordpress-posts v1.0.2  Draw a random published post from a WordPress database, cached, outage-tolerant and reduced to safe formatting HTML, in Laravel.  🔗 https://github.com/ismailnakkar/laravel-wordpress-posts",neutral,0.772
 2026-10-14T13:32:52+00:00,amazon web services,en,Amazon web services went down and we didn't notice.  Result!,negative,0.704
 2026-10-14T13:34:56+00:00,github,en,"another day, another major GitHub outage",negative,0.824
+2026-10-14T13:51:47+00:00,cloudflare,,Reposted: When the Internet Stumbles: Lessons from Cloudflare & Azure Front Door Outages https://www.dcac.com/2025/12/08/when-the-internet-stumbles-lessons-from-cloudflare-azure-front-door-outages/,neutral,0.526
