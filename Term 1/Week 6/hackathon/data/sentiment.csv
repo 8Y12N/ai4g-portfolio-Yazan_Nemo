@@ -77,3 +77,5 @@ time_utc,service,lang,text,sentiment,score
 2026-10-14T08:38:29+00:00,zoom,,"🟠 Zapier is reporting a Partial Outage since 08:21 UTC  ""Zoom Team Chat App connection failure""  Live timeline → https://pingoru.io/providers/zapier/incidents/12296171  #Zapier #ZapierDown",negative,0.806
 2026-10-14T09:20:29+00:00,chatgpt,en,Identified: We are still implementing the mitigation. Affected components ChatGPT Work (Degraded performance) Codex in ChatGPT Desktop (Degraded performance),neutral,0.853
 2026-10-14T09:45:08+00:00,zoom,en,✅ The earlier minor outage affecting Sandbox creation within ZoomMate has been resolved. All services are fully restored. View full incident report at https://watchrr.app/service/zoom,neutral,0.538
+2026-10-14T09:54:06+00:00,chatgpt,en,"✅ The earlier minor outage affecting ChatGPT, including degraded performance in Codex and ChatGPT Work, has been fully resolved. All impacted services have now fully recovered. View full incident report at https://watchrr.app/service/chatgpt",negative,0.68
+2026-10-14T09:55:28+00:00,openai,en,✅ Resolved: OpenAI - Degraded performance in Codex and ChatGPT Work,negative,0.651
