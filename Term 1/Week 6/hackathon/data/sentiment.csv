@@ -108,3 +108,4 @@ time_utc,service,lang,text,sentiment,score
 2026-10-14T21:16:38+00:00,cloudflare,,"Yandex outage: data shows that instead of going dark, malicious bots moved  #HackerNews  https://blog.cloudflare.com/yandex-outage/",negative,0.791
 2026-10-14T21:27:56+00:00,cloudflare,en,here's an easy to read post explaining how the strikes haven't done much to evil bots blog.cloudflare.com/yandex-outage/,negative,0.457
 2026-10-14T21:31:10+00:00,cloudflare,,"Yandex outage: data shows that instead of going dark, malicious bots moved https://blog.cloudflare.com/yandex-outage/ (https://news.ycombinator.com/item?id=50094673)",negative,0.813
+2026-10-14T21:45:14+00:00,cloudflare,en,"Yandex outage: data shows that instead of going dark, malicious bots moved https://blog.cloudflare.com/yandex-outage/  https://news.ycombinator.com/item?id=50094673",negative,0.814
