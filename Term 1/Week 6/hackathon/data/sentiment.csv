@@ -451,3 +451,7 @@ time_utc,service,lang,text,sentiment,score
 2026-10-15T21:45:20+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2838868,neutral,0.893
 2026-10-15T21:46:45+00:00,power,es,"In the poor European country that is Spain, we had a one day power outage about one year ago and was one of the biggest scandals of our government. Every time I see an US citizen talking about power outages as something usual my mind goes crazy.",negative,0.95
 2026-10-15T21:47:20+00:00,internet,en,Stream is canceled until further notice. No Internet has struck again 😭😭😭😭,negative,0.908
+2026-10-15T21:50:08+00:00,power,en,"Our power is on. Folks east, north and south are not so fortunate. ""Public Safety Power Shutdowns"" because our poorly maintained electric grid is potentially a source of wildfire danger. These outages could last FOUR DAYS.",negative,0.943
+2026-10-15T21:50:14+00:00,power,en,I paid nothing for two weeks when tornadoes took out power of 100 of thousands in illiana (Illinois+Indiana border)  I have solar panels in the backyard  What good is a generator when the trees are down on all the roads & the gas pumps have no power.,negative,0.497
+2026-10-15T21:51:23+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2838880,neutral,0.892
+2026-10-15T21:53:10+00:00,openai,en,"The openai-status feed listed an incident titled ""Degraded performance in Codex and ChatGPT Work"" at ""https://status.openai.com//incidents/01M4WKPE1EY48ZB4RZJ80YH7ES"".  diffwire.dev/changes/68fa...",negative,0.595
