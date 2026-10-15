@@ -347,3 +347,9 @@ time_utc,service,lang,text,sentiment,score
 2026-10-15T17:32:08+00:00,power,,A planned emergency power outage in Price City prompted the early release for students at Carbon High School.  https://bit.ly/47Vk9j0,negative,0.692
 2026-10-15T17:32:48+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2838793,neutral,0.894
 2026-10-15T17:33:24+00:00,servers,en,"I have a few demakes on my system, like a Silent Hill 2 SNES, Animal Crossing Gameboy, custom Pokemon games, ports of modern games (Omori, Webfishing, etc).  Hshop's preservation also includes kiosk demos that are lost to time, official themes no longer available, updates when servers are down.",negative,0.798
+2026-10-15T17:34:00+00:00,cloudflare,,Cloudflare is experiencing a major outage. Are you having problems with Cloudflare? #cloudflare #cloudflaredown,negative,0.765
+2026-10-15T17:34:57+00:00,cloudflare,,🔴 Cloudflare is experiencing a partial outage.  Live status: https://apistatus.watch/status/cloudflare,negative,0.692
+2026-10-15T17:39:47+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2838764,neutral,0.891
+2026-10-15T17:40:02+00:00,power,en,Data centers are going to cause power outages in the dead of winter. How many old people will die this year? youtu.be/9EDluunVTa8?...,negative,0.834
+2026-10-15T17:42:14+00:00,chatgpt,en,✅ The earlier minor outage affecting ChatGPT's widespread feature degradation is now resolved. All services have fully recovered. View full incident report at https://watchrr.app/service/chatgpt,negative,0.64
+2026-10-15T17:43:32+00:00,power,,Planned power outages are expected this week in response to weather conditions that could lead to fires.,negative,0.721
