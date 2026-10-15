@@ -13,6 +13,8 @@ SERVICES = [
     "kpn", "ziggo", "odido", "t-mobile", "vodafone", "delta fiber", "caiway",
     # Dutch digital public services / banking
     "digid", "mijnoverheid", "ing", "rabobank", "abn amro", "bunq", "ideal",
+    "internet", "wifi", "wi-fi", "network", "netwerk", "server", "servers",
+    "website", "4g", "5g", "glasvezel", "fiber", "fibre", "power", "stroom",
 ]
 
 OUTAGE = [
