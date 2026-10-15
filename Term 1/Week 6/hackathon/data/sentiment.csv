@@ -187,3 +187,8 @@ time_utc,service,lang,text,sentiment,score
 2026-10-15T11:32:09+00:00,website,fr,"Yeah, SS will remain the same. I just can't connect the subscribers from there to the website like I do with Patreon",negative,0.656
 2026-10-15T11:32:51+00:00,network,en,I accidentally clicked on an NFL Network Fantasy Football YouTube video and now my team is down 60 points.,negative,0.741
 2026-10-15T11:37:43+00:00,website,fr,"With how much things have evolved, I needed a website to gather all the things, for easier access. It's a shame I can't connect it to SS tho",negative,0.798
+2026-10-15T11:42:05+00:00,wifi,en,"Ah yes, a WiFi outage. That’s what’s needed.",neutral,0.504
+2026-10-15T11:45:10+00:00,power,,A power outage at the Ventana Pump Station has prompted a boil water notice for some Fort Worth residents.,negative,0.74
+2026-10-15T11:46:12+00:00,azure,,Azure OpenAI Outage: Keep Your AI App Running https://cstu.io/6e523a #love #tecnologia #programmer,neutral,0.614
+2026-10-15T11:48:19+00:00,discord,en,is discord down for anyone else,neutral,0.671
+2026-10-15T11:48:26+00:00,website,en,"My grocery store delivery website is down, was hacked 3 days ago, must have been quite the hack. They only charge for delivery and many times get free or discount.  I might have to use Instacart which much more expensive or may see if can get discount delivery through Grubhub. ",negative,0.917
