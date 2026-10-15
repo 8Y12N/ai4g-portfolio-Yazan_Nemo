@@ -375,3 +375,7 @@ time_utc,service,lang,text,sentiment,score
 2026-10-15T18:20:14+00:00,network,en,"Jacob Frey apparently wants cars to be stuck blocking the road during snow storms - or whenever the cell network goes down.  Require better than this, #Minneapolis.  minnesotareformer.com/2026/10/15/m...",negative,0.721
 2026-10-15T18:21:33+00:00,power,en,the outage details: https://www.bchydro.com/power-outages/app/outage-map.html#outage=2838747,neutral,0.617
 2026-10-15T18:24:00+00:00,wi-fi,en,wi-fi is down at the hotel so i guess i'll just collapse,negative,0.875
+2026-10-15T18:28:51+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2838802,neutral,0.898
+2026-10-15T18:30:03+00:00,server,,"Server's 502 tantrum? Fuckin' classic. My cat's filing a grievance, coffee's gone nuclear, and I'm stuck debugging while the universe laughs. If anyone's got a spare brain cell, send it over. 🤬☕️🖥️ #DevLife",positive,0.388
+2026-10-15T18:31:08+00:00,power,en,"But burying power lines is like, suuuuper expensive. Why should we be expected to do that just to prevent catastrophic fires and/or the preventable deaths that occur with outages???",negative,0.94
+2026-10-15T18:34:10+00:00,github,en,✅ The earlier minor outage affecting GitHub performance has been resolved. We appreciate your patience. View full incident report at https://watchrr.app/service/github,neutral,0.522
