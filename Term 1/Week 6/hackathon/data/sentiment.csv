@@ -322,3 +322,8 @@ time_utc,service,lang,text,sentiment,score
 2026-10-15T16:41:12+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2838768,neutral,0.891
 2026-10-15T16:47:14+00:00,website,en,"Hey @redphoenix.news , your website is down. Says domain expired.  What's going on?   www.americanpartyoflabor.com",negative,0.836
 2026-10-15T16:47:29+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2838777,neutral,0.889
+2026-10-15T16:53:46+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2838787,neutral,0.891
+2026-10-15T16:57:22+00:00,power,en,it’s so cool that our new luggage arrived and got left out in the open right before a major power outage,positive,0.678
+2026-10-15T16:59:18+00:00,network,en,A network I DON’T manage just went down. Time for lunch.,negative,0.837
+2026-10-15T17:00:11+00:00,gitlab,,"Stop running kubectl get pods during an outage. Wire GitLab Deploy Boards for real-time Kubernetes pod visibility, resource groups, and scoped secrets. #GitLab #Kubernetes #DevOps  https://www.valtersit.com/guides/gitlab/gitlab-environments-and-deploy-boards-production-visibility/",neutral,0.718
+2026-10-15T17:00:14+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2838791,neutral,0.896
