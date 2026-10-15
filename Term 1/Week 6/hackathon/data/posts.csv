@@ -255,3 +255,22 @@ time_utc,service,lang,text
 2026-10-15T14:44:53+00:00,power,en,"As Per NS Power: 49 Outages reported accross Nova Scotia currently due to high winds! Good chance to charge devices and any external batteries, radios etc! Check https://outagemap.nspower.ca/external/default.html for more info"
 2026-10-15T14:45:55+00:00,power,ja,タワーマンションの停電対策：モバイルバッテリーとポータブル電源の選び方 停電時に何を何時間動かすかを先に決め、必要Whと出力から予備電源を選ぶ手順を整理します。リチウム電池の発火や屋内発電機の危険にも注意します。  https://towers.select/insights/tower-mansion-power-outage-battery-guide/?utm_source=bluesky&utm_medium=social&utm_campaign=article-tower-mansion-power-outage-battery-guide
 2026-10-15T14:47:55+00:00,internet,en,"no internet in here, what's a google anyway"
+2026-10-15T14:48:44+00:00,power,en,"Bella Coola: East of OUNPUU RD  Out since Oct 15, 7:36 a.m. with 401 customers out.  Crew status: No crew assigned   Cause: Under investigation  For more information, see the outage details: https://www.bchydro.com/power-outages/app/outage-map.html#outage=2838743"
+2026-10-15T14:51:45+00:00,cloudflare,en,blog.cloudflare.com/yandex-outage/
+2026-10-15T14:53:26+00:00,website,en,"I can't log in to SSI website What's the deal???  Online Service Not Available We're sorry, but the online service you requested isn't available right now. We apologize for the inconvenience, and are actively working to restore service. Please check back soon."
+2026-10-15T14:55:10+00:00,cloudflare,,NET | Cloudflare (NYSE): 🔽 NET is DOWN today by 5.09% (324.33 -> current 307.81)
+2026-10-15T14:55:19+00:00,wi-fi,,Ferenc Szálasi just fought me over refusing to pay taxes until their Hogwarts house is recognized by the state! I am one Wi-Fi outage away from a breakdown!
+2026-10-15T14:57:24+00:00,internet,en,Trying to decide if every other post and my notifications not loading is due to internet shitting the bed or if they took another sledgehammer to site functionality so the slop bot could get some use
+2026-10-15T14:58:02+00:00,github,en,"We ship 3x more PRs and review them the same way as before  Linear: teams with coding agents went from 21 to 65 PRs a week, and total dev time went up.  Trends #12: TypeScript 7.0, GitHub's 8h outage, METR, DORA, Cursor and more.  newsletter.techworld-with-milan.com/p/trends-12"
+2026-10-15T15:00:29+00:00,power,en,outage details: https://www.bchydro.com/power-outages/app/outage-map.html#outage=2838746
+2026-10-15T15:01:27+00:00,power,en,I heard she went down to Tosche's Station but not to pick up Power Converters
+2026-10-15T15:02:20+00:00,internet,en,"Hey, my internet is fine so why are you saying I can't connect?"
+2026-10-15T15:06:57+00:00,power,en,my personal theory of change is that we have to stop allowing mechanisms of obstruction to enable popular disinvestment from self-rule. we had a very good 50-year run where this worked okay bc most ppl with access to power were terrified of dying in global thermonuclear war but it's not working now
+2026-10-15T15:07:06+00:00,server,en,EITHER BLUE SKY IS DOWN OR SOMEBODY'S MESSING WITH MY ACCOUNT! SECOND TIME IN A WEEK THAT IT'S TELLING ME THE FEED SERVER IS DOWN AND I CAN'T GET ANYTHING EXCEPT THIS!
+2026-10-15T15:07:39+00:00,website,en,"This vibe-coded ass website won't load anything, am I free now"
+2026-10-15T15:09:35+00:00,power,en,Ack! We’re having a power outage. I’ll be back on as soon as I can!
+2026-10-15T15:12:29+00:00,internet,,NEWS: Internet outage caused by theft affecting some Okotoks residents
+2026-10-15T15:12:40+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2838748
+2026-10-15T15:17:10+00:00,internet,en,"The state of big media today: @todayshow.com talks about internet outages and lack of intel from the US.  And, as a brief footnote, mentions that these events happened days after a Trump deal with Russia “targeted at lowering diesel prices.”  Oligarchy firmly entrenched."
+2026-10-15T15:18:57+00:00,power,en,the outage details: https://www.bchydro.com/power-outages/app/outage-map.html#outage=2838749
+2026-10-15T15:21:17+00:00,slack,en,"""Experiencing partially degraded performance""  Yeah, Bluesky is having issues. (What I see rn is trouble fetching posts.) This is from: status.bsky.app  If you want to get ""updates"" (I guess they're referring to alerts?), you can sign up and receive them via email, RSS, Slack, and other services."
