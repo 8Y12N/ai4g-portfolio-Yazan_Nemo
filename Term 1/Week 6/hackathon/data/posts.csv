@@ -122,3 +122,4 @@ time_utc,service,lang,text
 2026-10-14T23:42:06+00:00,cloudflare,ja,"Yandex outage: Data shows that instead of going dark, malicious bots went on the move   blog.cloudflare.com/yandex-outag..."
 2026-10-14T23:50:54+00:00,cloudflare,,Reposted: When the Internet Stumbles: Lessons from Cloudflare & Azure Front Door Outages https://www.dcac.com/2025/12/08/when-the-internet-stumbles-lessons-from-cloudflare-azure-front-door-outages-2/
 2026-10-15T00:43:33+00:00,cloudflare,,"Yandex outage: data shows that instead of going dark, malicious bots moved https://blog.cloudflare.com/yandex-outage/ (http://news.ycombinator.com/item?id=50094673)"
+2026-10-15T00:50:19+00:00,github,ja,"📦 licensekit/licensekit v0.1.0-alpha.1  Software licensing APIs and Filament administration for Laravel, with optional outage compensation.  🔗 https://github.com/Krixx1337/filament-licensekit"
