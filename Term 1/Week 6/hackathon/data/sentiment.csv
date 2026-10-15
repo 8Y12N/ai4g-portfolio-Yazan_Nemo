@@ -310,3 +310,7 @@ time_utc,service,lang,text,sentiment,score
 2026-10-15T16:16:37+00:00,discord,en,"Update on my situation: My issues with Discord have been resolved much earlier than expected. I will be around today. However, I learned yesterday that my power company needs to do some maintenance tomorrow. I will be experiencing a long outage, during which I will not be reachable.",neutral,0.522
 2026-10-15T16:16:53+00:00,internet,pt,had no internet yesterday so this image was the only reference I had available to draw a bear,neutral,0.561
 2026-10-15T16:21:25+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2838766,neutral,0.892
+2026-10-15T16:26:23+00:00,aws,,"🟠 Annex Cloud is reporting a Partial Outage since 16:14 UTC  ""Component ""Admin Portal US - AWS (Loyalty Platform Services - AWS)"" and a few other components are Down""  Live timeline → https://pingoru.io/providers/annex-cloud/incidents/12302885  #AnnexCloud #AnnexCloudDown",negative,0.7
+2026-10-15T16:27:58+00:00,power,en,My beloved auntie thinks the power outage is because of the data centers. 😭,negative,0.858
+2026-10-15T16:28:12+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2838769,neutral,0.896
+2026-10-15T16:31:22+00:00,github,,"Ask your AI assistant: ""Is the 6 train disrupted this Saturday at 68 St-Hunter College?""  mta-mcp checks subway alerts and elevator outages. Early alpha, unofficial, and may not be real time, so confirm at mta.info. Install from GitHub.  github.com/BetaNYC/mta-mcp",negative,0.668
