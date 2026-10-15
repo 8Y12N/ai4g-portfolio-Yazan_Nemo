@@ -283,3 +283,8 @@ time_utc,service,lang,text
 2026-10-15T15:30:07+00:00,cloudflare,en,Major Outage on Cloudflare  Discussion
 2026-10-15T15:30:08+00:00,power,,Power outage in reading triggered by a large fallen tree
 2026-10-15T15:31:25+00:00,power,en,outage details: https://www.bchydro.com/power-outages/app/outage-map.html#outage=2838754
+2026-10-15T15:33:18+00:00,power,,"the one thing i didn't miss about NY, having been here since my aunt was hit by that driver, was the power outages. just had one and it threw a monkey wrench into some LLC stuff i was getting ready to file. neat."
+2026-10-15T15:34:46+00:00,internet,en,I’ve not noticed either so could it be a signalling/internet issue? Recently every time bluesky goes down I can’t access anything
+2026-10-15T15:37:36+00:00,power,en,outage details: https://www.bchydro.com/power-outages/app/outage-map.html#outage=2838753
+2026-10-15T15:39:35+00:00,power,en,Oh no Cuttell is asking a question that heavily implies that she doesn't know how property taxes work (thanks to a power outage I am watching delayed)
+2026-10-15T15:40:23+00:00,network,,"🟠 GleSYS is reporting a Partial Outage since 15:34 UTC  ""Small number of KVM based vm's without working network.""  Live timeline → https://pingoru.io/providers/glesys/incidents/12302827  #GleSYS #GleSYSDown"
