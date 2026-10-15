@@ -320,3 +320,5 @@ time_utc,service,lang,text
 2026-10-15T16:38:25+00:00,openai,,"🟠 OpenAI is reporting a Partial Outage since 16:29 UTC  ""Widespread feature degradation""  Live timeline → https://pingoru.io/providers/openai/incidents/12302910  #OpenAI #OpenAIDown"
 2026-10-15T16:40:07+00:00,network,en,✅ The earlier minor outage affecting SMS delivery from network subscribers to Twilio Colombia Shortcode Numbers is now RESOLVED. All services are operating normally. View full incident report at https://watchrr.app/service/twilio
 2026-10-15T16:41:12+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2838768
+2026-10-15T16:47:14+00:00,website,en,"Hey @redphoenix.news , your website is down. Says domain expired.  What's going on?   www.americanpartyoflabor.com"
+2026-10-15T16:47:29+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2838777
