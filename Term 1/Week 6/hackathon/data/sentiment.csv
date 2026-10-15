@@ -424,3 +424,5 @@ time_utc,service,lang,text,sentiment,score
 2026-10-15T20:00:53+00:00,power,en,"Power outage happening around the neighborhood   Not good, not good at all",negative,0.924
 2026-10-15T20:00:54+00:00,power,en,"Late evening in Kyiv. Darkness is dotted with pale light from windows. Power outage.  A familiar voice outside assured everyone that the air raid alert was over. When did it begin? These days, the attacks seem continuous.  I see no need to complain or grumble. I write. You read. I write.",negative,0.802
 2026-10-15T20:02:13+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2838854,neutral,0.892
+2026-10-15T20:09:46+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2838851,neutral,0.896
+2026-10-15T20:16:52+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2838862,neutral,0.896
