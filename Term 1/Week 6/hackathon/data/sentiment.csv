@@ -393,3 +393,8 @@ time_utc,service,lang,text,sentiment,score
 2026-10-15T18:49:10+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2838837,neutral,0.89
 2026-10-15T18:52:37+00:00,cloudflare,en,"Yandex outage: Data shows that instead of going dark, malicious bots went on the move blog.cloudflare.com/yandex-outage/",negative,0.847
 2026-10-15T18:54:02+00:00,power,en,"t.me/times_ukrain...  ❗️A ""Shahed"" drone strike caused a widespread power outage in Lutsk: the city has been plunged into darkness, according to local media.  You can find out HERE when the electricity will be restored.  Subscribe to Times of Ukraine",negative,0.843
+2026-10-15T18:55:52+00:00,power,en,Maybe one of the many power surges/outages I've had in the last few months killed the thing idk,negative,0.808
+2026-10-15T18:56:29+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2838829,neutral,0.897
+2026-10-15T19:00:02+00:00,servers,,"502 again? Shit, servers need therapy. My cat just staged a coup, coffee's turned into a black hole, and my code screams louder than my mom's gossip. If anyone's got a spare sanity, toss it my way. 🤯☕️🐱 #DevHell",negative,0.937
+2026-10-15T19:00:53+00:00,server,en,"kubeadm control-plane certificates last one year. Expired certificates are a common outage in self-managed clusters.  Kestrel runs your API server and etcd on a dedicated control plane, across zones. Certificates rotate on schedule.  Run kubeadm certs check-expiration today.",neutral,0.623
+2026-10-15T19:04:02+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2838767,neutral,0.89
