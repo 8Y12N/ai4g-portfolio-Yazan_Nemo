@@ -161,3 +161,4 @@ time_utc,service,lang,text,sentiment,score
 2026-10-15T09:38:41+00:00,power,en,"There's a planned power outage for the whole day, so I can't get anything done. Guess I'm spending the day reading until my shift later.",negative,0.818
 2026-10-15T09:41:14+00:00,cloudflare,,Clearing up: Cloudflare has recovered. Outage lasted 2h 29m. https://techweather.fyi/s/cloudflare,neutral,0.697
 2026-10-15T09:42:44+00:00,power,en,"#BurnsLake: M 1/09 TWEEN SAV/END  Out since Oct 15, 2:34 a.m. with < 5 customers out.  Crew status: No crew assigned   Cause: Under investigation  For more information, see the outage details: https://www.bchydro.com/power-outages/app/outage-map.html#outage=2838730",neutral,0.685
+2026-10-15T09:50:26+00:00,cloudflare,en,blog.cloudflare.com/yandex-outage/,neutral,0.854
