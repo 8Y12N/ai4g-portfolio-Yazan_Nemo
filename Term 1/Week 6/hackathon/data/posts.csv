@@ -314,3 +314,9 @@ time_utc,service,lang,text
 2026-10-15T16:27:58+00:00,power,en,My beloved auntie thinks the power outage is because of the data centers. 😭
 2026-10-15T16:28:12+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2838769
 2026-10-15T16:31:22+00:00,github,,"Ask your AI assistant: ""Is the 6 train disrupted this Saturday at 68 St-Hunter College?""  mta-mcp checks subway alerts and elevator outages. Early alpha, unofficial, and may not be real time, so confirm at mta.info. Install from GitHub.  github.com/BetaNYC/mta-mcp"
+2026-10-15T16:33:09+00:00,power,en,"The Coolah Administration Building, including the Service NSW Agency and Warrumbungle Community Care office, will be closed on Wednesday 21 October 2026 due to a planned power outage from 9.00am to 4.00pm. 15 October 2026 Warrumbungle Shire Council #LGNewsRoundup #WarrumbungleShireCouncil"
+2026-10-15T16:34:38+00:00,power,en,outage details: https://www.bchydro.com/power-outages/app/outage-map.html#outage=2838770
+2026-10-15T16:35:22+00:00,website,en,Looks like my old website is suddenly not banned anymore  www.donkingcon.com  Lets see how long it stays up until “someone” orders it taken down again
+2026-10-15T16:38:25+00:00,openai,,"🟠 OpenAI is reporting a Partial Outage since 16:29 UTC  ""Widespread feature degradation""  Live timeline → https://pingoru.io/providers/openai/incidents/12302910  #OpenAI #OpenAIDown"
+2026-10-15T16:40:07+00:00,network,en,✅ The earlier minor outage affecting SMS delivery from network subscribers to Twilio Colombia Shortcode Numbers is now RESOLVED. All services are operating normally. View full incident report at https://watchrr.app/service/twilio
+2026-10-15T16:41:12+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2838768
