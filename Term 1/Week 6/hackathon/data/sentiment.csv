@@ -438,3 +438,5 @@ time_utc,service,lang,text,sentiment,score
 2026-10-15T20:58:22+00:00,power,en,"#PouceCoupe: 52ND AVE SKATING RINK  Out since Oct 15, 1:37 p.m. with < 5 customers out.  Crew status: No crew assigned   Cause: Under investigation  For more information, see the outage details: https://www.bchydro.com/power-outages/app/outage-map.html#outage=2838866",neutral,0.653
 2026-10-15T20:58:58+00:00,internet,en,"LMFAAAOOOO internet went down 30 minutes into my shift, came back for about 5 minutes, then went back down again. Spectrum kept saying no outage in your area only to send a text saying they’ll try to have it back by 5pm 😂😂😂",negative,0.556
 2026-10-15T21:00:31+00:00,power,en,Any SNAP recipient who lost power for four or more hours can submit the form for replacement SNAP within 10 days of the outage. Act now!,neutral,0.653
+2026-10-15T21:09:37+00:00,power,en,I missed her birthday because of power outages but I'm doing something for her soon,neutral,0.603
+2026-10-15T21:11:35+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2838874,neutral,0.896
