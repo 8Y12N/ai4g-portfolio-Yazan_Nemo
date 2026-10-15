@@ -274,3 +274,12 @@ time_utc,service,lang,text,sentiment,score
 2026-10-15T15:17:10+00:00,internet,en,"The state of big media today: @todayshow.com talks about internet outages and lack of intel from the US.  And, as a brief footnote, mentions that these events happened days after a Trump deal with Russia “targeted at lowering diesel prices.”  Oligarchy firmly entrenched.",negative,0.88
 2026-10-15T15:18:57+00:00,power,en,the outage details: https://www.bchydro.com/power-outages/app/outage-map.html#outage=2838749,neutral,0.642
 2026-10-15T15:21:17+00:00,slack,en,"""Experiencing partially degraded performance""  Yeah, Bluesky is having issues. (What I see rn is trouble fetching posts.) This is from: status.bsky.app  If you want to get ""updates"" (I guess they're referring to alerts?), you can sign up and receive them via email, RSS, Slack, and other services.",negative,0.602
+2026-10-15T15:21:55+00:00,internet,en,At work but the internet is down so I got to do “work stuff” to pass the time 😭,negative,0.787
+2026-10-15T15:25:10+00:00,power,en,the outage details: https://www.bchydro.com/power-outages/app/outage-map.html#outage=2838751,neutral,0.582
+2026-10-15T15:26:33+00:00,power,it,"Power Sentinel, il #dispositivo che ti avvisa quando salta la #corrente: niente Wi-Fi, niente #abbonamento  👉 Leggi l'articolo: news.freeforumzone.com/news/503/pow...  👉 Dì la tua: www.freeforumzone.com#/d/1/1194719...  #tecnologia #sistemadisicurezza #energiaelettrica #FreeForumZone",neutral,0.814
+2026-10-15T15:27:06+00:00,power,,"ICYMI: These electric vehicles can power your house if the power goes out: These seven EVs offer vehicle-to-home or vehicle-to-load power, letting owners run appliances or back up a house in an outage",neutral,0.517
+2026-10-15T15:27:43+00:00,internet,en,"Still no Internet,  and no estimate on fixing it.  Can folks let @wingsndnsilver.bsky.social mutuals know?  And @alisitlatol.bsky.social , can you pop into the Facebook group this morning and let them know?  Thanks. ❤️",negative,0.555
+2026-10-15T15:29:14+00:00,cloudflare,,"Major Outage on Cloudflare comments · posted on 2026.10.15 at 11:06:12 (c=0, p=3)",neutral,0.512
+2026-10-15T15:30:07+00:00,cloudflare,en,Major Outage on Cloudflare  Discussion,negative,0.694
+2026-10-15T15:30:08+00:00,power,,Power outage in reading triggered by a large fallen tree,negative,0.753
+2026-10-15T15:31:25+00:00,power,en,outage details: https://www.bchydro.com/power-outages/app/outage-map.html#outage=2838754,neutral,0.858
