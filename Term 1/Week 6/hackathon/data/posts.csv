@@ -440,3 +440,4 @@ time_utc,service,lang,text
 2026-10-15T21:00:31+00:00,power,en,Any SNAP recipient who lost power for four or more hours can submit the form for replacement SNAP within 10 days of the outage. Act now!
 2026-10-15T21:09:37+00:00,power,en,I missed her birthday because of power outages but I'm doing something for her soon
 2026-10-15T21:11:35+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2838874
+2026-10-15T21:27:07+00:00,cloudflare,en,✅ We're pleased to confirm that the earlier minor outage affecting Cloudflare Pages.dev sites experiencing availability issues in Norway is now fully resolved. Services are operating normally. View full incident report at https://watchrr.app/service/cloudflare
