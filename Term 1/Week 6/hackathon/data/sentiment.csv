@@ -288,3 +288,9 @@ time_utc,service,lang,text,sentiment,score
 2026-10-15T15:37:36+00:00,power,en,outage details: https://www.bchydro.com/power-outages/app/outage-map.html#outage=2838753,neutral,0.83
 2026-10-15T15:39:35+00:00,power,en,Oh no Cuttell is asking a question that heavily implies that she doesn't know how property taxes work (thanks to a power outage I am watching delayed),negative,0.828
 2026-10-15T15:40:23+00:00,network,,"🟠 GleSYS is reporting a Partial Outage since 15:34 UTC  ""Small number of KVM based vm's without working network.""  Live timeline → https://pingoru.io/providers/glesys/incidents/12302827  #GleSYS #GleSYSDown",negative,0.702
+2026-10-15T15:42:41+00:00,power,,ICYMI: Your EV can power your home during an outage — but not all the same way #ElectricVehicles #EVs,neutral,0.748
+2026-10-15T15:43:53+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2838755,neutral,0.888
+2026-10-15T15:45:31+00:00,power,,PLANNED POWER OUTAGE - Pleasant Hill- CANCELLED,negative,0.728
+2026-10-15T15:46:30+00:00,website,en,He's going to post it exclusively on his lame-ass website. There's no decision that goes down unless DumOld Jerkoff Trump gets his taste.,negative,0.853
+2026-10-15T15:46:46+00:00,internet,en,No Internet for you!,negative,0.781
+2026-10-15T15:50:05+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2838758,neutral,0.895
