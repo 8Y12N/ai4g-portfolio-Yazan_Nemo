@@ -634,3 +634,5 @@ time_utc,service,lang,text,sentiment,score
 2026-10-16T11:55:17+00:00,power,en,street-wide 20min power outage in the middle of my workday caused by the fibre internet people nicking a powerline that was laid too shallowly (by 3.5m) a few buildings down. definitely needed that,negative,0.903
 2026-10-16T12:01:12+00:00,internet,en,"He could have been rotting away in prison with no internet, no way to annoy, or enrage us, or even remind us he exists.  How different the world would be.",negative,0.916
 2026-10-16T12:01:30+00:00,power,,🌐 and back on the ground with us humans:  🛂 25 do-not-travel countries 🦠 20 CDC health notices ✈️ 4 US aviation disruptions 💡 810 US power outages 🚢 242 transport/maritime reports 📉 Fed stress index: -72 bps  Full breakdown: https://suggestionbox.live/planet-pulse,negative,0.529
+2026-10-16T12:06:28+00:00,outlook,ja,PayPay証券の取引停止は焦りますよね。 家族の資産を守るため、配当狙いの注意点と今できる対策をまとめました。  #PayPay証券 #配当株 #投資初心者  詳しくはこちら https://money-stock.com/2026/10/16/paypay-securities-japan-stocks-outage-outlook/,neutral,0.545
+2026-10-16T12:13:10+00:00,power,en,"*bought it before the power outage but still, such bad luck",negative,0.929
