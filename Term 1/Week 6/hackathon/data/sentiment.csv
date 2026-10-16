@@ -890,3 +890,6 @@ time_utc,service,lang,text,sentiment,score
 2026-10-16T20:55:05+00:00,internet,en,"Several hundred acres (the more the better) deep in the woods with private lake(s) and stream(s). My own wilderness. Rustic cabins, trails, and no internet.",negative,0.518
 2026-10-16T20:55:34+00:00,power,en,@theneedling Tacoma and Gig Harbor demand to know why Seattle Mayor Katie Wilson didn’t do more to stop this morning’s power outage.,negative,0.668
 2026-10-16T20:56:59+00:00,power,en,Our crews will be upgrading electricity infrastructure serving Naramata and the surrounding area on October 18. The work will require a power outage affecting around 830 customers from 7 am to 4:30 pm and temporary traffic impacts along Naramata Road. Learn more: www.fortisbc.com/about-us/pro...,neutral,0.764
+2026-10-16T20:59:29+00:00,internet,en,Piéce de resistance on this shitty hellscape heartbreak of a day and week? I come home and I have no internet. Upgrade to fibre didn't activate but they shut down my old line. I'm sending this from the only corner pocket of my flat that gets phone reception.,negative,0.945
+2026-10-16T21:02:18+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839205,neutral,0.897
+2026-10-16T21:02:42+00:00,internet,,"Vandalism causes internet and phone outages in Des Moines, officials say https://ift.tt/Xt0K6aF",negative,0.778
