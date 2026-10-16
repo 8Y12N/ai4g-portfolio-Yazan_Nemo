@@ -601,3 +601,4 @@ time_utc,service,lang,text
 2026-10-16T09:29:50+00:00,power,en,"Kyiv, Kyiv region switch to emergency power outages due to massive Russian attacks – Ukrenergo #Ukraine"
 2026-10-16T09:36:13+00:00,internet,en,maybe i should start mailing my posts directly to people so no internet bullshit has to be involved
 2026-10-16T09:39:54+00:00,network,en,"'Ah but it stops attackers from gaining access to your network' 'Yes Jan, and I'm sure you feel better now the CIA can't connect to your Wifi and use your printer when you're not looking'"
+2026-10-16T09:49:36+00:00,network,,"🔴 Litium is reporting a Major Outage since 09:43 UTC  ""Incident – Level 3: Critical Impact – Network disruption in…""  Affects: Cloud API, Litium Search, Database services, +1 more  Live timeline → https://pingoru.io/providers/litium/incidents/12304396  #Litium #LitiumDown"
