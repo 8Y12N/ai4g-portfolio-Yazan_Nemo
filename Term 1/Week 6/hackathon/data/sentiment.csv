@@ -933,3 +933,8 @@ time_utc,service,lang,text,sentiment,score
 2026-10-16T22:46:02+00:00,internet,en,"I hate it when my Internet is down & I can't stream my gaming workout, makes me wonder if it's Trumps fault because he ruins everything including the air, he shits it up with his old farts & shitty diapers.",negative,0.96
 2026-10-16T22:46:41+00:00,internet,,"White House Made Disastrous Decision to Cut Ukraine’s Internet Ukraine said that its internet terminals abruptly stopped working, preventing it from fending off a Russian attack. ...",negative,0.938
 2026-10-16T22:50:12+00:00,power,en,"#FortStJohn: 12400 block 242ND RD  Out since Oct 16, 3:35 p.m. with < 5 customers out.  Crew status: Crew assigned   Cause: Wire down  For more information, see the outage details: https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839476",neutral,0.809
+2026-10-16T22:55:53+00:00,power,en,"Hell, I'm still furious about that, the landline phone somehow worked during power outages!",negative,0.923
+2026-10-16T22:57:31+00:00,power,en,"#FortStJohn: 9900 block 266 RD  Out since Oct 16, 3:30 p.m. with < 5 customers out.  Crew status: Crew assigned   Cause: Under investigation  For more information, see the outage details: https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839475",neutral,0.822
+2026-10-16T22:58:10+00:00,servers,en,"RYM is down, and we all know that The Avalanches' new LP ranking higher than a 3.72 took down their servers",negative,0.813
+2026-10-16T22:59:38+00:00,power,,Breaking News More than 4700 people lose power in widespread outage via Beloud.com,negative,0.838
+2026-10-16T22:59:39+00:00,power,,Breaking News More than 4700 people lose power in widespread outage via Beloud.com,negative,0.838
