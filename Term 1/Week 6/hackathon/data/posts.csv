@@ -835,3 +835,12 @@ time_utc,service,lang,text
 2026-10-16T19:02:31+00:00,github,en,"leef v1.2.1 is out: release checksums and build attestations so you can verify your download, plus a macOS fullscreen fix.  mac users: the auto-updater isn't working yet. we're working on a fix, so download manually for now: github.com/git-QTech/le..."
 2026-10-16T19:05:24+00:00,power,,Southern California wildfires — Red Flag Warnings and Power Outages Amid Santa Ana Winds
 2026-10-16T19:05:28+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839201
+2026-10-16T19:09:00+00:00,internet,en,"hey there, still no Internet but we're here until 5!"
+2026-10-16T19:10:15+00:00,cloudflare,en,"✅ The earlier major outage affecting Cloudflare FedRAMP Dashboard and Access has been resolved, and systems are running normally. View full incident report at https://watchrr.app/service/cloudflare"
+2026-10-16T19:12:43+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839204
+2026-10-16T19:13:19+00:00,power,,A Milton road is closed because of power lines that are down in the area. https://www.wkrg.com/northwest-florida/santa-rosa-county/springhill-road-closure-milton-fla/ 
+2026-10-16T19:13:27+00:00,outlook,,"Trade Desk shares are down 67% YTD after a Q2 revenue miss and weak Q3 outlook, with limited visibility and analyst downgrades driving uncertainty. "
+2026-10-16T19:13:29+00:00,website,,"🟠 DNSimple is reporting a Partial Outage since 19:06 UTC  ""Sandbox Environment – Intermittent Downtime During Hosting Provider Maintenance""  Affects: Sandbox Website, Sandbox API  Live timeline → https://pingoru.io/providers/dnsimple/incidents/12305155  #DNSimple #DNSimpleDown"
+2026-10-16T19:15:27+00:00,outlook,,"Trade Desk shares are down 67% YTD after a Q2 revenue miss and weak Q3 outlook, with limited visibility and analyst downgrades driving uncertainty. "
+2026-10-16T19:15:58+00:00,server,en,@brookie.blog pls help 500 Server Error upon login callback
+2026-10-16T19:16:34+00:00,power,fi,"Emergency power outages in Ukraine, schedules do not apply  www.pravda.com.ua/eng/news/202...  #Ukraina #Sähköverkko"
