@@ -858,3 +858,6 @@ time_utc,service,lang,text,sentiment,score
 2026-10-16T19:41:29+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839258,neutral,0.897
 2026-10-16T19:44:06+00:00,power,,Manitoba Hydro is promising fewer power outages in Winnipeg while it replaces or converts 41 electrical substations in a project the utility says will last up to 20 years and cost as much as $1.2 billion.,positive,0.533
 2026-10-16T19:45:10+00:00,power,,"Utility officials are investigating a power outage that has left nearly 50,000 homes without power across Pierce County, Washington.  bit.ly/4hTUxHS",negative,0.738
+2026-10-16T19:49:29+00:00,power,en,outage details: https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839133,neutral,0.83
+2026-10-16T19:54:04+00:00,power,,"Russian attacks on nine regions of Ukraine caused emergency power outages for hundreds of thousands of households and damaged numerous homes, wounding at least 15 people, officials said Friday. https://to.pbs.org/4Bc2uRB",negative,0.906
+2026-10-16T19:56:36+00:00,power,en,"#Sechelt: 16100 block SUN CST HWY  Out since Oct 16, 12:44 p.m. with < 5 customers out.  Crew status: Crew assigned   Cause: Under investigation  For more information, see the outage details: https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839270",neutral,0.84
