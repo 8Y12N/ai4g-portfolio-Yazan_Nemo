@@ -496,3 +496,7 @@ time_utc,service,lang,text,sentiment,score
 2026-10-16T00:05:54+00:00,power,,Kyiv Left With Widespread Power Outages After Attacks on Energy Facilities,negative,0.704
 2026-10-16T00:08:23+00:00,power,en,"The puck is down on period two, the #GoBolts have 1:50 left on their power play.",neutral,0.698
 2026-10-16T00:12:34+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2838877,neutral,0.895
+2026-10-16T00:17:01+00:00,internet,en,"Now that we have more cameras around the house, I finally found the motivation to tidy up and secure my setup. Everything got moved into a dedicated VLAN with no internet access (other than the Unifi console). Two out of three cameras are PoE powered, so if power goes down they're still covered […]",positive,0.563
+2026-10-16T00:20:48+00:00,wi-fi,,Tom Metzger just fought me over petitioning to replace the national anthem with a lo-fi remix! I am one Wi-Fi outage away from a breakdown!,negative,0.824
+2026-10-16T00:22:33+00:00,internet,en,Cocaine bear 2: datapocalypse now.  Tagline if your internet goes down in the woods today…,negative,0.704
+2026-10-16T00:22:34+00:00,power,en,AAAAAAA MY EXTERNAL SSD FUCKING DIED THANKS TO THE CONSTANT POWER OUTAGES. FML  I FUCKING HOPE I DIDN’T LOSE MY FILES AAAAAAAAAAAAA,negative,0.768
