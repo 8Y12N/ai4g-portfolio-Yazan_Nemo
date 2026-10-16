@@ -747,3 +747,10 @@ time_utc,service,lang,text,sentiment,score
 2026-10-16T16:17:29+00:00,gitlab,,"🟠 GitLab is reporting a Partial Outage since 16:10 UTC  ""503s on GitLab.com""  Affects: Website, API, Git Operations, +25 more  Live timeline → https://pingoru.io/providers/gitlab/incidents/12304920  #GitLab #GitLabDown",neutral,0.497
 2026-10-16T16:18:02+00:00,power,en,"California cut power to 150,000+ customers as winds raise wildfire risk. Brush fires broke out near Malibu, Azusa, and Camp Pendleton. LA has the most outages, per PowerOutage data. #California #Wildfire #PowerOutage #PG&E #SoCalEdison #PublicSafetyShutoff #Malibu #Azusa #snnfinland",negative,0.864
 2026-10-16T16:18:54+00:00,internet,en,Give each mayoral candidate a different address they need to get to from City Hall. No internet. The one who comes up with the best plan is mayor.,neutral,0.529
+2026-10-16T16:23:58+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839142,neutral,0.895
+2026-10-16T16:26:08+00:00,gitlab,en,Investigating: We are still investigating the cause of 503 on GitLab.com. We are seeing some services return but errors still intermittent. More details at: https://gitlab.com/gitlab-com/gl-infra/production/-/work_items/23261,neutral,0.653
+2026-10-16T16:27:37+00:00,power,en,i’m so over these damn power outages forbid a yeen actually wants to work for once…,negative,0.931
+2026-10-16T16:29:43+00:00,server,en,I was thinking it was a slow email day at work but it turns out our email server is down actually and I haven't gotten anything since yesterday lol,negative,0.647
+2026-10-16T16:30:01+00:00,gitlab,,GitLab may be down right now — something's off. Anything broken on your end?  https://outage.report/gitlab,negative,0.767
+2026-10-16T16:30:43+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839148,neutral,0.893
+2026-10-16T16:31:09+00:00,power,en,"More than 175,000 California customers lost power through preventive shutoffs aimed at reducing wildfire ignition risks. An inconvenient outage is still cheaper than an uncontrolled fire. AP News apnews.com/article/9356...",negative,0.886
