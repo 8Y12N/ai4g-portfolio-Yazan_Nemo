@@ -709,3 +709,6 @@ time_utc,service,lang,text,sentiment,score
 2026-10-16T15:01:29+00:00,power,en,"An NPR podcast discussed Gary Indiana's power outage and how to prevent such in the future. Agree solar would be good. They noted the feds need to help (I know), but not Indiana itself. And since it's Indiana, a state that thrives on being regressive (Mike Pence was once governor), good luck.",positive,0.645
 2026-10-16T15:09:08+00:00,network,,Italy Air Traffic Restored After Network Outage Halves Capacity .................. https://nile1.com/italy-air-traffic-restored-after-network-outage-halves-capacity/ .................. #airspaceCapacity #bergamoOrioAlSerio #dataTransmissionNetwork #enav #eurocontrol #europeanAviation #italyAirTraffi,neutral,0.678
 2026-10-16T15:09:36+00:00,internet,en,One of my high school classmates is an art teacher in Bend. My internet is down. Do you know which school?,negative,0.659
+2026-10-16T15:16:39+00:00,wifi,en,fun game of is this wifi slow or is bsky down again,negative,0.794
+2026-10-16T15:17:26+00:00,power,,"(VC Line) Train 106 to LA Union Station is on the move, delayed 55-60 minutes due to power outage. ",neutral,0.625
+2026-10-16T15:17:28+00:00,power,en,"information, see the outage details: https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839017",neutral,0.653
