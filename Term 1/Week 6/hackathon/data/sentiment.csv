@@ -800,3 +800,8 @@ time_utc,service,lang,text,sentiment,score
 2026-10-16T18:08:44+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839171,neutral,0.895
 2026-10-16T18:08:48+00:00,power,,"This week's unseasonal heat, coal outages and transmission constraints sent NSW power prices soaring, but batteries added a twist.",negative,0.721
 2026-10-16T18:09:41+00:00,internet,en,"Woke up with no internet (it’s back now), went out and did some shopping, picked up some new manga and light novels (to add to my ever growing library), now back home and ready to take a nap… 😴  #vtuber #vsky",positive,0.466
+2026-10-16T18:16:01+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839170,neutral,0.894
+2026-10-16T18:18:28+00:00,power,en,"Massive power outages have begun in Kyiv and the surrounding region, the express tram is not running, and water has been cut off in Solomyanka, Vidradne, and Borshchagivka. Prolonged emergency outages are possible, and appliances may also be damaged due to voltage fluctuations.  t.me/kievinfo_kyi...",negative,0.902
+2026-10-16T18:20:46+00:00,power,,"This week's unseasonal heat, coal outages and transmission constraints sent NSW power prices soaring, but batteries added a twist. #electricity #production #distribution #renewable #energy #utilities #batteries",negative,0.682
+2026-10-16T18:20:50+00:00,website,en,Your website is down and not working.,negative,0.752
+2026-10-16T18:23:19+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839196,neutral,0.897
