@@ -901,3 +901,10 @@ time_utc,service,lang,text,sentiment,score
 2026-10-16T21:22:08+00:00,internet,en,Move me to a facility with no internet access?,negative,0.586
 2026-10-16T21:23:37+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839304,neutral,0.895
 2026-10-16T21:24:27+00:00,power,,"A fast-moving fire burned multiple homes in Southern California as hot, windy weather gripped the region Friday, prompting evacuations and power outages. ",negative,0.877
+2026-10-16T21:29:58+00:00,power,en,"[Delayed Report] On Oct 15, at 6:26 PM CDT, 5 SW Weatherford [Parker Co, TX] Utility Company reports Tstm Wnd Dmg. Power lines down and power outages in the Bethel community. #txwx Link",negative,0.656
+2026-10-16T21:30:28+00:00,power,en,details: https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839310,neutral,0.913
+2026-10-16T21:33:21+00:00,server,,"[12/16] Cloud sessions: Fixed scheduled routines restarting and duplicating work; improved message sync across devices; enhanced error messaging (Connection lost/Server error). Remote Control: Fixed spinning pane when offline, now shows disconnection status.",neutral,0.542
+2026-10-16T21:34:26+00:00,discord,en,Your Discord link isn't working!,negative,0.748
+2026-10-16T21:37:13+00:00,internet,en,That’s.. something all right.   I have no internet flexes at all.,neutral,0.37
+2026-10-16T21:38:03+00:00,power,en,"customers out.  Crew status: Crew on their way Est. arrival: Oct 16, 4:25 p.m.  Cause: Under investigation  For more information, see the outage details: https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839306",neutral,0.8
+2026-10-16T21:39:42+00:00,power,en,"🟡 InfrastructureStrike | 7/10 🇺🇦 🇷🇺  Russian Geran-type drone struck electrical substation in Zhytomyr A Russian Geran-type strike drone hit an electrical substation in Zhytomyr, causing power outages  #OSINT #Ukraine #Infrastructure",negative,0.713
