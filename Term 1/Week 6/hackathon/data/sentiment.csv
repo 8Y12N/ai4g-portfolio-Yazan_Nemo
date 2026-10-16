@@ -898,3 +898,6 @@ time_utc,service,lang,text,sentiment,score
 2026-10-16T21:12:12+00:00,netwerk,nl,"Ben je serieus nu? Dit is te krankzinnig! AI heeft nooit vertaling uitgaven. Een betalend netwerk kanaal neemt zijn kwalteits-controle serieus, doet het niet?",negative,0.946
 2026-10-16T21:17:08+00:00,power,en,"#Langley: 24900 block 72 AVE  Out since Oct 16, 1:54 p.m. with < 5 customers out.  Crew status: No crew assigned   Cause: Under investigation  For more information, see the outage details: https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839299",neutral,0.677
 2026-10-16T21:19:03+00:00,power,en,"On this day 16th October 1987, following the great storm overnight of hurricane force 100mph+ winds that devastated London & South East England. Good Morning Britain and BBC Breakfast broadcasting from different locations due to massive power outages. Hopefully we never see a storm like that again.",negative,0.867
+2026-10-16T21:22:08+00:00,internet,en,Move me to a facility with no internet access?,negative,0.586
+2026-10-16T21:23:37+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839304,neutral,0.895
+2026-10-16T21:24:27+00:00,power,,"A fast-moving fire burned multiple homes in Southern California as hot, windy weather gripped the region Friday, prompting evacuations and power outages. ",negative,0.877
