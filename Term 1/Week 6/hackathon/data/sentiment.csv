@@ -594,3 +594,6 @@ time_utc,service,lang,text,sentiment,score
 2026-10-16T08:30:43+00:00,power,en,"The corrupt traitor Trump, attacks President Zelensky for  retaliating. You know the sort of thing a real leader does! not working for a foreign power by allowing & helping them to attack his allies. The sort of President any country would be proud to have. Slava Ukraine  news.sky.com/share/12541713",negative,0.925
 2026-10-16T09:00:05+00:00,aws,,"""What Happens When the Cloud Goes Down? Understanding Failure in AWS "" by orondo emmanuel  ",negative,0.71
 2026-10-16T09:02:58+00:00,power,en,There's nothing funnier than a house full of white noise dependents during a power outage when the generator runs out of gas. Everyone go back to bed! I'll deal with it tomorrow!,negative,0.456
+2026-10-16T09:14:05+00:00,wi-fi,,Plínio Salgado just fought me over accusing their barista of election fraud! I am one Wi-Fi outage away from a breakdown!,negative,0.935
+2026-10-16T09:14:38+00:00,website,nl,"hey ruud je website doet het niet eens man, hoe moet ik je dan boeken voor mijn racistische event",negative,0.863
+2026-10-16T09:15:01+00:00,internet,,Rural Cooperatives Face Week-Long Internet Blackout as Federal Response Lags  https://www.zandoriaherald.com/article/tierra-verde-internet-outage-federal-response,negative,0.706
