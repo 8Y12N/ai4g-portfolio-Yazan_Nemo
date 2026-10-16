@@ -631,3 +631,6 @@ time_utc,service,lang,text,sentiment,score
 2026-10-16T11:46:22+00:00,github,,"When building data pipelines, consider caching JSON responses from public APIs to reduce latency, like storing GitHub API user data in a local database 💡",neutral,0.592
 2026-10-16T11:47:24+00:00,ziggo,nl,They were listening to binaural beats that transform you into bulldog but ziggo had a storing,neutral,0.572
 2026-10-16T11:48:09+00:00,internet,en,"Every summer road trip to Fla. No phones, no GPS, no tv or videos, no internet. 🤩 🏴‍☠️",negative,0.752
+2026-10-16T11:55:17+00:00,power,en,street-wide 20min power outage in the middle of my workday caused by the fibre internet people nicking a powerline that was laid too shallowly (by 3.5m) a few buildings down. definitely needed that,negative,0.903
+2026-10-16T12:01:12+00:00,internet,en,"He could have been rotting away in prison with no internet, no way to annoy, or enrage us, or even remind us he exists.  How different the world would be.",negative,0.916
+2026-10-16T12:01:30+00:00,power,,🌐 and back on the ground with us humans:  🛂 25 do-not-travel countries 🦠 20 CDC health notices ✈️ 4 US aviation disruptions 💡 810 US power outages 🚢 242 transport/maritime reports 📉 Fed stress index: -72 bps  Full breakdown: https://suggestionbox.live/planet-pulse,negative,0.529
