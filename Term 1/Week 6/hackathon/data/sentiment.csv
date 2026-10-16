@@ -779,3 +779,7 @@ time_utc,service,lang,text,sentiment,score
 2026-10-16T17:13:09+00:00,power,en,"Yes, this combination of war photography and power outage was quite a thing. The best way to convey reality.   As for the notifications, strange. I hope it’s a temporary thing, Jo.",negative,0.579
 2026-10-16T17:17:04+00:00,whatsapp,,Is WhatsApp down? Problem reports are coming in right now. Down for you as well?  https://outage.report/whatsapp,negative,0.802
 2026-10-16T17:18:59+00:00,power,en,"information, see the outage details: https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839168",neutral,0.639
+2026-10-16T17:24:57+00:00,whatsapp,en,WhatsApp always goes down when I need it.,negative,0.602
+2026-10-16T17:26:01+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839157,neutral,0.894
+2026-10-16T17:31:05+00:00,power,en,"I hate Santa Ana winds, I hate these power outages, and I hate heatwaves.  Right now feeling light headed and overheating due to lack of AC.",negative,0.94
+2026-10-16T17:33:00+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839146,neutral,0.894
