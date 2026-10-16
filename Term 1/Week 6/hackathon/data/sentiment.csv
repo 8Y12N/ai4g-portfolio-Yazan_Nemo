@@ -855,3 +855,6 @@ time_utc,service,lang,text,sentiment,score
 2026-10-16T19:33:56+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839254,neutral,0.894
 2026-10-16T19:33:57+00:00,internet,en,"No choice for us: we live on an island with no internet and bad storms as well, and contrary to that old lady, we work remotely for a living...",negative,0.806
 2026-10-16T19:36:17+00:00,internet,en,There has been an Internet outage since 10 AM and I got a midterm on Sunday on developing an LLM from scratch 😭,negative,0.858
+2026-10-16T19:41:29+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839258,neutral,0.897
+2026-10-16T19:44:06+00:00,power,,Manitoba Hydro is promising fewer power outages in Winnipeg while it replaces or converts 41 electrical substations in a project the utility says will last up to 20 years and cost as much as $1.2 billion.,positive,0.533
+2026-10-16T19:45:10+00:00,power,,"Utility officials are investigating a power outage that has left nearly 50,000 homes without power across Pierce County, Washington.  bit.ly/4hTUxHS",negative,0.738
