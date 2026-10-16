@@ -783,3 +783,6 @@ time_utc,service,lang,text,sentiment,score
 2026-10-16T17:26:01+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839157,neutral,0.894
 2026-10-16T17:31:05+00:00,power,en,"I hate Santa Ana winds, I hate these power outages, and I hate heatwaves.  Right now feeling light headed and overheating due to lack of AC.",negative,0.94
 2026-10-16T17:33:00+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839146,neutral,0.894
+2026-10-16T17:34:53+00:00,wifi,en,I'm trying to post this on Fansly but my wifi isn't working 🙃,negative,0.766
+2026-10-16T17:40:09+00:00,power,en,the outage details: https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839135,neutral,0.553
+2026-10-16T17:43:23+00:00,server,en,"I was cruising, having a great morning. Then a server went down with a never before seen fault and muggins here had to fix it, thus missing a hospital appointment and, crucially, an early dart. And daughter has woes and everyone just seemed very cross all day. Sooo glad it's the weekend!",negative,0.807
