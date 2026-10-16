@@ -578,3 +578,4 @@ time_utc,service,lang,text
 2026-10-16T06:55:54+00:00,power,en,"Mohammad Kian Golkar, Luciano Alves de Oliveira, Mohamad Alipour: Forecast lead time and the timing of crew deployment for weather-driven power outages using AI weather models https://arxiv.org/abs/2610.20918 https://arxiv.org/pdf/2610.20918 https://arxiv.org/html/2610.20918"
 2026-10-16T07:03:36+00:00,power,,hooray. power outage.
 2026-10-16T07:03:48+00:00,power,,hooray. power outage.
+2026-10-16T07:04:31+00:00,cloudflare,en,"Cloudflare posted their own in-depth analysis of the effects of Yandex strikes. Search crawler automation verified, bots started migrating, and footnote: traffic has recovered to 85% pre-strike level. Last night Ukraine did a second pass. https://blog.cloudflare.com/yandex-outage/"
