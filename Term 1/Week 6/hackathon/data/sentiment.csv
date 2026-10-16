@@ -564,3 +564,4 @@ time_utc,service,lang,text,sentiment,score
 2026-10-16T05:21:43+00:00,power,en,"information, see the outage details: https://www.bchydro.com/power-outages/app/outage-map.html#outage=2838934",neutral,0.639
 2026-10-16T05:28:12+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2838935,neutral,0.895
 2026-10-16T05:30:43+00:00,network,en,✅ The earlier minor outage affecting delayed sends on the TON Network for Coinbase has been resolved. Services are back to normal. View full incident report at https://watchrr.app/service/coinbase,negative,0.525
+2026-10-16T05:38:38+00:00,server,sv,"I don’t know what to do if Bsky ever goes down for good.  I have a Masterdon account but I made the mistake of joining the wrong server so I have no one to interact on there.  I refuse to go to TikTok, instagram and whatnot for the Gen AI Bs.  And then what?",negative,0.915
