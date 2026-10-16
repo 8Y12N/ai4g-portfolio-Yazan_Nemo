@@ -500,3 +500,7 @@ time_utc,service,lang,text
 2026-10-16T00:20:48+00:00,wi-fi,,Tom Metzger just fought me over petitioning to replace the national anthem with a lo-fi remix! I am one Wi-Fi outage away from a breakdown!
 2026-10-16T00:22:33+00:00,internet,en,Cocaine bear 2: datapocalypse now.  Tagline if your internet goes down in the woods today…
 2026-10-16T00:22:34+00:00,power,en,AAAAAAA MY EXTERNAL SSD FUCKING DIED THANKS TO THE CONSTANT POWER OUTAGES. FML  I FUCKING HOPE I DIDN’T LOSE MY FILES AAAAAAAAAAAAA
+2026-10-16T00:25:13+00:00,power,en,outage details: https://www.bchydro.com/power-outages/app/outage-map.html#outage=2838889
+2026-10-16T00:29:37+00:00,website,en,The website and shop are both down right now if you're wondering how Maine is handling the reveal
+2026-10-16T00:32:37+00:00,cloudflare,,Cloudflare not working? There is a confirmed incident on Cloudflare's official status page: Workers Cron Triggers issues. We're watching for the next update.
+2026-10-16T00:33:29+00:00,gcp,,"🟠 Extreme Networks is reporting a Partial Outage since 00:26 UTC  ""Push Config Issue Detected""  Affects: IA-GCP (GCP Iowa)  Live timeline → https://pingoru.io/providers/extreme-networks/incidents/12303610  #ExtremeNetworks #ExtremeNetworksDown"
