@@ -805,3 +805,7 @@ time_utc,service,lang,text,sentiment,score
 2026-10-16T18:20:46+00:00,power,,"This week's unseasonal heat, coal outages and transmission constraints sent NSW power prices soaring, but batteries added a twist. #electricity #production #distribution #renewable #energy #utilities #batteries",negative,0.682
 2026-10-16T18:20:50+00:00,website,en,Your website is down and not working.,negative,0.752
 2026-10-16T18:23:19+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839196,neutral,0.897
+2026-10-16T18:30:52+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839008,neutral,0.896
+2026-10-16T18:32:00+00:00,internet,en,"sorry for end stream all of a sudden, but unfortunately it's just because our internet has a upgrading project, so there'll have no internet till 7 a.m (in our timezone) AND THE MESSAGE DIDN'T SEND TO MY PHONE SO I DON'T KNOW UNTILL I CHECK-OUT THE SOFTWARE, FUK!!!!!",negative,0.888
+2026-10-16T18:35:30+00:00,power,en,Lights are blinking... a power outage is coming.,negative,0.557
+2026-10-16T18:35:47+00:00,internet,,BH FILMS BOX / KIRUV BOX  httos://kiruvbox.com  NO INTERNET REQUIRED     49 Tracks     +19 Hours of Chizuk BH Films and Teshuva Music     Rechargeable With Micro USB (Included)     10 Inch HD Screen  Free U.S. Shipping on Every BH Films Box! 🇺🇸📦,neutral,0.86
