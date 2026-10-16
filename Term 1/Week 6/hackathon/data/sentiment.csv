@@ -716,3 +716,8 @@ time_utc,service,lang,text,sentiment,score
 2026-10-16T15:24:07+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839062,neutral,0.895
 2026-10-16T15:26:02+00:00,power,en,Libau and surrounding areas: we’re responding to an outage affecting around 800 customers. Crews are making critical equipment repairs. We’re aiming to restore power by about 11:15 a.m. #mboutage,negative,0.598
 2026-10-16T15:30:36+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839084,neutral,0.896
+2026-10-16T15:32:30+00:00,aws,,"🟠 Databricks AWS is reporting a Partial Outage since 15:27 UTC  ""ES-2292938""  Affects: Genie, CA Central 1, EU West 2, +15 more  Live timeline → https://pingoru.io/providers/databricks-aws/incidents/12304867  #DatabricksAWS #DatabricksAWSDown",negative,0.552
+2026-10-16T15:35:35+00:00,wifi,,"Air to Ground Message:   GOOD MORNING... ALL IFE SCREENS NOT WORKING IN BACK END IN CHARGE UPPER SCREEN ALSO NOT WORKING..SOME CHARGE BANKS IN SEATS IN BACK NOT WORKING WIFI IS WORKING...YAAA   Area: Blaine, MN, USA  Type: Boeing 737 MAX 8 A: #ad8d5110b6e  F: #f25dc811102",negative,0.6
+2026-10-16T15:35:36+00:00,wifi,,"Air to Ground Message:   Good morning... All ife screens not working in back end in charge upper screen also not working..some charge banks in seats in back not working wifi is working...yaaa   Area: Blaine, MN, USA  Type: Boeing 737 MAX 8 A: #ad8d5110b6e  F: #f25dc811102",negative,0.758
+2026-10-16T15:36:28+00:00,internet,en,"PLOTTED your vacation manually, NO GPS, no internet, simply an adventure!!",neutral,0.444
+2026-10-16T15:37:03+00:00,power,en,details: https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839127,neutral,0.912
