@@ -599,3 +599,5 @@ time_utc,service,lang,text,sentiment,score
 2026-10-16T09:15:01+00:00,internet,,Rural Cooperatives Face Week-Long Internet Blackout as Federal Response Lags  https://www.zandoriaherald.com/article/tierra-verde-internet-outage-federal-response,negative,0.706
 2026-10-16T09:22:00+00:00,wifi,en,"Want to protect your wifi network? Pick a strong, complex password for the network, make sure you're using WPA2 (yes WPA3 is more modern and secure, but older devices can't connect to it and unless you're actively being targeted by bad guys, WPA2 is fine) and turn off WPS.",neutral,0.452
 2026-10-16T09:29:50+00:00,power,en,"Kyiv, Kyiv region switch to emergency power outages due to massive Russian attacks – Ukrenergo #Ukraine",negative,0.825
+2026-10-16T09:36:13+00:00,internet,en,maybe i should start mailing my posts directly to people so no internet bullshit has to be involved,neutral,0.52
+2026-10-16T09:39:54+00:00,network,en,"'Ah but it stops attackers from gaining access to your network' 'Yes Jan, and I'm sure you feel better now the CIA can't connect to your Wifi and use your printer when you're not looking'",negative,0.726
