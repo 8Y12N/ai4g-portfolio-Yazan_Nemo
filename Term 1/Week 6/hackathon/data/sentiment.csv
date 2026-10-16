@@ -511,3 +511,4 @@ time_utc,service,lang,text,sentiment,score
 2026-10-16T00:45:50+00:00,power,en,"And then the dog threw up on my study guide. And then I got pinkeye. And then our whole neighborhood had a power outage….and, and.",negative,0.816
 2026-10-16T00:49:55+00:00,power,en,"#Abbotsford: 1100 block POWERHOUSE RD  Out since Oct 15, 5:38 p.m. with < 5 customers out.  Crew status: No crew assigned   Cause: Under investigation  For more information, see the outage details: https://www.bchydro.com/power-outages/app/outage-map.html#outage=2838915",neutral,0.625
 2026-10-16T00:53:11+00:00,power,en,"longest uninterrupted power outage here in the last 9+ years was just over 6 hours, in the severe December 2018 windstorm. I had only just gone with my cat to the local ""warming centre"" when the power came back on. Many ppl i know were out for > 2 weeks",negative,0.774
+2026-10-16T01:00:08+00:00,cloudflare,en,oh ok so it's just that cloudflare is down <3 cool <333,positive,0.531
