@@ -793,3 +793,6 @@ time_utc,service,lang,text
 2026-10-16T17:53:05+00:00,github,en,"It appears anthropic has broken working in worktrees in cloud envs, so um this basically means GitHub is down and we have the day off"
 2026-10-16T17:53:05+00:00,power,en,Did you end up getting one so you'll be ready for the next power outage?
 2026-10-16T17:54:14+00:00,power,en,"information, see the outage details: https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839160"
+2026-10-16T17:59:57+00:00,cloudflare,,🔴 Cloudflare is experiencing a partial outage.  Live status: https://apistatus.watch/status/cloudflare
+2026-10-16T18:01:18+00:00,power,en,see the outage details: https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839184
+2026-10-16T18:05:25+00:00,power,,"This week's unseasonal heat, coal outages and transmission constraints sent NSW power prices soaring, but batteries added a twist."
