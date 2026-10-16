@@ -557,3 +557,4 @@ time_utc,service,lang,text,sentiment,score
 2026-10-16T04:32:15+00:00,wi-fi,,"Windows 11 Wi-Fi Connected but No Internet? Complete Troubleshooting Guide  Diagnose Windows 11 Wi-Fi connected but no internet with safe steps for DHCP, DNS, proxy, VPN, drivers, network commands and reset.",negative,0.7
 2026-10-16T04:33:03+00:00,internet,en,"GoDaddy's outage was a wake-up call. Your internet isn't as solid as you think—the cracks are showing, and decentralization isn't just a buzzword.",negative,0.903
 2026-10-16T04:33:06+00:00,internet,en,internet’s hopefully getting fixed tomorrow :/ at least i grabbed csp before it went down,neutral,0.354
+2026-10-16T04:43:34+00:00,power,en,"#FortStJohn: 10200 block 97TH HWY  Out since Oct 15, 9:33 p.m. with < 5 customers out.  Crew status: No crew assigned   Cause: Under investigation  For more information, see the outage details: https://www.bchydro.com/power-outages/app/outage-map.html#outage=2838929",neutral,0.681
