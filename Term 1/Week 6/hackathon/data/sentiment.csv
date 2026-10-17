@@ -1274,3 +1274,6 @@ time_utc,service,lang,text,sentiment,score
 2026-10-17T20:15:55+00:00,website,en,One website goes down and suddenly “the internet is broken.”  The internet connects networks worldwide. A website is one destination.  Try unrelated sites before changing your network settings.  First establish whether the failure is local or widespread.,negative,0.776
 2026-10-17T20:16:04+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839803,neutral,0.895
 2026-10-17T20:17:40+00:00,power,en,Penn State wide receiver Chase Sowell is down after catching a 13-yard pass on the first play of the second quarter. looked like his foot/ankle might have gotten caught under him.  he walks off slowly under his own power.,negative,0.714
+2026-10-17T20:22:00+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839805,neutral,0.894
+2026-10-17T20:27:56+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839811,neutral,0.895
+2026-10-17T20:30:16+00:00,power,,Power outages ramp up as windstorm sweeps through Edmonton and area: Fortis Alberta,negative,0.783
