@@ -1135,3 +1135,5 @@ time_utc,service,lang,text,sentiment,score
 2026-10-17T13:27:21+00:00,internet,en,"woke up this morning freezing and not only was the heater not working all night, but ALSO the internet is down because something happened to the fucking xfinity modem. cool cool cool",negative,0.789
 2026-10-17T13:37:06+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839681,neutral,0.893
 2026-10-17T13:39:52+00:00,ing,,ING→ Here’s how it went down. US inflation came in hot. Two-year swap rates rose by a whopping 20 basis points.,positive,0.496
+2026-10-17T13:42:03+00:00,network,en,What's this networking thing and how do I run away from it?  Oh to network you need a follower base? Cool I'm safe... (Bluesky may be getting deleted due to this shit not working out),negative,0.732
+2026-10-17T13:44:12+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839682,neutral,0.896
