@@ -1014,3 +1014,6 @@ time_utc,service,lang,text
 2026-10-17T02:32:16+00:00,power,,"Get ready for the games with SCNG’s guide to the SoCal action, including updates on postponements due to fire and power outages."
 2026-10-17T02:33:08+00:00,server,en,"504 Gateway Timeout Ошибка сервера: Не удалось установить соединение The server failed to receive a timely response from the upstream cluster host. • Request ID: yc-sec-req-8bdf42a1-9c60 • Status: UNAVAILABLE  Please refresh the page or try again later. If the issue persists, contact Yandex Support."
 2026-10-17T02:36:40+00:00,power,en,see the outage details: https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839529
+2026-10-17T02:40:15+00:00,power,,"Firefighters in the state say a fast-moving wildfire has ripped through at least six homes, prompting evacuations and power outages. #wildfires"
+2026-10-17T02:43:09+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839515
+2026-10-17T02:44:05+00:00,power,,Power outages to prevent wildfires force postponement of football games
