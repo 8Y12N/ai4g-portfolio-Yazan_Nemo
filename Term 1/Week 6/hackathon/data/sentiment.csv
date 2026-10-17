@@ -1192,3 +1192,6 @@ time_utc,service,lang,text,sentiment,score
 2026-10-17T16:25:38+00:00,cloudflare,,Live your life in such a way that a cloudflare outage is at best a mild inconvenience,negative,0.792
 2026-10-17T16:26:52+00:00,cloudflare,,"Live your life in such a way that a cloudflare outage is, at worst, a mild inconvenience",negative,0.82
 2026-10-17T16:30:52+00:00,server,en,This is true. But along with that you end up paying Adobe a fortune for them to decide to randomly redesign a feature you've been happily using for 20 years so that it works opposite to how it used to. This will also result in your font server not working for a week.,negative,0.673
+2026-10-17T16:40:42+00:00,internet,en,"Oh yeah, it was definitely around the hour mark and passing me between a few phone agents. They were atrocious. And that was after 6 weeks of no internet because they couldn’t figure out how to update my router’s settings.",negative,0.941
+2026-10-17T16:44:10+00:00,power,en,The breathability is great for a very limited number of days - though power outages is one of them.,positive,0.62
+2026-10-17T16:45:37+00:00,wifi,,"Air to Ground Message:   WIFI NOT WORKING SAT SAYS OUT OF COVERAGE   Area: Grand Rapids, MI, USA  A: #ab83bf48d7e  F: #f5a615dac49",neutral,0.595
