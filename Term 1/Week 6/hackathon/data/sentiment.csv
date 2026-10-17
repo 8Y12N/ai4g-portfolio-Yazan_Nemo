@@ -1022,3 +1022,7 @@ time_utc,service,lang,text,sentiment,score
 2026-10-17T03:00:22+00:00,power,,Likely continuation of scheduled or emergency power outages in various regions as energy infrastructure remains a target and under strain.  ⚠️ Warning signals: • Sustained high frequency of air raid alerts across multiple regions.,negative,0.823
 2026-10-17T03:03:16+00:00,internet,en,My ISP just sent another message saying it's taking longer than expected to fix the Internet outage. I'm going to lose my mind.,negative,0.832
 2026-10-17T03:04:38+00:00,power,,"Wildfires burn in Southern California: Fast-moving wildfires in Southern California are threatening homes, causing evacuations, and leading to power outages. Burn scars from previous fires increase the risk of flooding and debris flows during storms.",negative,0.888
+2026-10-17T03:08:37+00:00,cloudflare,en,blog.cloudflare.com/yandex-outage/,neutral,0.854
+2026-10-17T03:11:05+00:00,internet,en,"on another camping trip with spotty internet. I might be offline for a while  I'd say this on birdsite where my friends actually are but the app is straight up not loading anymore lmaooo, so",negative,0.681
+2026-10-17T03:15:29+00:00,power,en,STREAM ENDED DUE TO POWER OUTAGE  BACK SOON,negative,0.614
+2026-10-17T03:15:33+00:00,internet,en,mmm. I miss gbf kinda bad. can't play that either with no internet,negative,0.899
