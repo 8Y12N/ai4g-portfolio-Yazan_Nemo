@@ -1189,3 +1189,6 @@ time_utc,service,lang,text
 2026-10-17T16:17:25+00:00,server,en,It’s like asking the janitor in the parking lot if the server went down last week.
 2026-10-17T16:18:26+00:00,power,en,suffered an all island 7hr power outage lol
 2026-10-17T16:20:05+00:00,power,en,🟥 Russian strikes hit 9 Ukrainian regions causing power outages and casualties  📍 Ukraine  ·  Source: Al Jazeera Live: warheatmap.app
+2026-10-17T16:25:38+00:00,cloudflare,,Live your life in such a way that a cloudflare outage is at best a mild inconvenience
+2026-10-17T16:26:52+00:00,cloudflare,,"Live your life in such a way that a cloudflare outage is, at worst, a mild inconvenience"
+2026-10-17T16:30:52+00:00,server,en,This is true. But along with that you end up paying Adobe a fortune for them to decide to randomly redesign a feature you've been happily using for 20 years so that it works opposite to how it used to. This will also result in your font server not working for a week.
