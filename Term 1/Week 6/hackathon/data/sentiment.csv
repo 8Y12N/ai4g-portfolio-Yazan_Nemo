@@ -968,3 +968,8 @@ time_utc,service,lang,text,sentiment,score
 2026-10-17T00:20:07+00:00,power,en,"Save this post for quick access of what to do if you see a hazard!   California's going through it. High winds and elevated fire weather conditions paired with El Nino tides and flooding can lead to downed trees, damaged power lines, and power outages.",negative,0.886
 2026-10-17T00:22:35+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839504,neutral,0.893
 2026-10-17T00:23:48+00:00,internet,en,My internet is down for the 2nd Friday night in a row. I love ISP monopolies!,negative,0.425
+2026-10-17T00:29:53+00:00,internet,en,"i got 2x 2012 era dell business desktops, the last gen that will run Windows XP natively. I am going to make a LAN party setup for my kids and they can learn things the hard way (with Microsoft Encarta) and no internet access :~)  #psycho",positive,0.464
+2026-10-17T00:30:21+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839259,neutral,0.898
+2026-10-17T00:31:21+00:00,power,en,"Despite interruption with a couple of hours of a power outage, I made some good progress on this commission #workinprogress #Conan #conanthebarbarian #penandink #mlpeters",positive,0.661
+2026-10-17T00:32:23+00:00,wifi,en,Was about to start and wifi literally said no. It is completely out right now I might be able to stream a little later but otherwise at the moment is not working,negative,0.738
+2026-10-17T00:33:03+00:00,power,en,I'm over this power outage. I know others are too. We have enough money for tomorrow and that's it. #hurricanerecovery #Isaias #FloridaPanhandle,negative,0.708
