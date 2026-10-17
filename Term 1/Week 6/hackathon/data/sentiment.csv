@@ -1096,3 +1096,5 @@ time_utc,service,lang,text,sentiment,score
 2026-10-17T11:05:42+00:00,internet,en,"No internet at work, so I dont have access to anything.  Free shift today",neutral,0.511
 2026-10-17T11:06:40+00:00,internet,pt,ler os materiais no internet archive sobre rádio amador e criar uma estação de rádio pirata chamada Speedfreaks FM (ou Noiados FM) e ficar tocando música anódica e leituras de fanfics kim harry,neutral,0.666
 2026-10-17T11:14:06+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839604,neutral,0.895
+2026-10-17T11:18:34+00:00,power,,Sri Lanka hit by islandwide power outage #damnews #dam,negative,0.859
+2026-10-17T11:21:22+00:00,power,en,"#Vanderhoof: 12600 block MEADOWDALE RD  Out since Oct 17, 4:03 a.m. with < 5 customers out.  Crew status: Crew assigned   Cause: Under investigation  For more information, see the outage details: https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839581",neutral,0.835
