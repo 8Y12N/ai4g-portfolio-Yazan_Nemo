@@ -1263,3 +1263,8 @@ time_utc,service,lang,text,sentiment,score
 2026-10-17T19:48:29+00:00,power,en,Wonderful things are happening. 10 years from now there won't be a service station in the country. Solar farms charge giga batteries that fuel the grid. The grid will fuel transportation. Every home will have battery backup never another power outage. The way things are the US will be the last in.,positive,0.591
 2026-10-17T19:50:42+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839745,neutral,0.896
 2026-10-17T19:57:10+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839733,neutral,0.895
+2026-10-17T20:03:07+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839786,neutral,0.894
+2026-10-17T20:04:22+00:00,power,,"Investigating a crime scene with wet footprints, a sunset, and a power outage mid-Jenga. Dread by Daylight is out now on the channel! #dread the rpg #role playing games #Halloween special #dread by daylight",negative,0.895
+2026-10-17T20:05:44+00:00,internet,en,"hey guys at 6pm maybe 7pm EST, Assuming I have no internet issues I will be playing some games. untill palworld at 9pm est so ye see ya! #vtuber #Spoopy_live twitch.tv/Spoopy_Ricotta",neutral,0.671
+2026-10-17T20:09:27+00:00,power,en,"Electricity system went down.  Out on the street somewhere.  Should be back in about 3 hrs, or so, give or take. The Oilers play at 8 pm.  It would be best if the power comes back before the game.",negative,0.633
+2026-10-17T20:09:46+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839727,neutral,0.895
