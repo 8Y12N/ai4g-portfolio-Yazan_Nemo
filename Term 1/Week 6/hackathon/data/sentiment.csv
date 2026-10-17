@@ -991,3 +991,5 @@ time_utc,service,lang,text,sentiment,score
 2026-10-17T01:10:17+00:00,internet,en,"Explosions and internet outages reported amid suspected drone strike on Yandex data center in Vladimir, Russia #Ukraine",negative,0.832
 2026-10-17T01:13:04+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839516,neutral,0.896
 2026-10-17T01:14:18+00:00,internet,en,This got me irrationally angry. These weirdos need to be exiled to a desert island with no internet.,negative,0.96
+2026-10-17T01:20:11+00:00,internet,en,"No land phone lines here. No close cell towers. No internet. County, so no vote on getting services either.",negative,0.713
+2026-10-17T01:23:00+00:00,internet,pt,No internet (wip),negative,0.51
