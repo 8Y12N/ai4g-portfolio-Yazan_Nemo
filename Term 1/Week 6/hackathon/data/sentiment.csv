@@ -1079,3 +1079,7 @@ time_utc,service,lang,text,sentiment,score
 2026-10-17T09:20:05+00:00,power,en,🟥 Russian attacks across 9 regions of Ukraine kill 8 and cause widespread power outages  📍 Ukraine  ·  Source: Al Jazeera Live: warheatmap.app,negative,0.806
 2026-10-17T09:22:48+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839560,neutral,0.894
 2026-10-17T09:36:50+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839563,neutral,0.893
+2026-10-17T09:58:34+00:00,network,,"In cybersecurity, AI is the only true defense against multi-face-to-face attacks when the network is down.",neutral,0.474
+2026-10-17T10:00:08+00:00,power,,"A fast-moving fire burned at least four homes in Southern California as hot, windy weather gripped the region Friday, prompting evacuations and power outages. TV footage showed homes burning in San Juan Capistrano in Orange County, flames engulfing them.",negative,0.891
+2026-10-17T10:00:24+00:00,network,,Mastercard mandates offline payment capability across Europe after massive outage crippled 50M+ outlets. New protocol kicks in 2027—a major shift in payment…  https://www.paymentsjournal.com/mastercard-plans-to-keep-its-european-network-running-even-offline/  #fintech #payments,neutral,0.45
+2026-10-17T10:03:55+00:00,power,en,"🇺🇦 UKRAINE: Russian airstrikes on energy facilities trigger power outages across Kharkiv, other oblasts | https://www.riskline.com",negative,0.813
