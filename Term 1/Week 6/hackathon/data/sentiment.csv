@@ -1233,3 +1233,4 @@ time_utc,service,lang,text,sentiment,score
 2026-10-17T18:24:40+00:00,power,en,"If power outages are to be expected, a generator sounds like a good idea.  Good that the kitty is having fun at least.",positive,0.846
 2026-10-17T18:25:53+00:00,power,en,Probably! As long as you never had a power outage for a long time during that period!,neutral,0.572
 2026-10-17T18:36:16+00:00,wifi,en,is bluesky just not loading media reliably these days or is my brother's WiFi weird,negative,0.857
+2026-10-17T18:45:21+00:00,internet,en,At the time I posted this I *had* done a modem/router reboot (and that wasn’t the problem bc I was having video calls on my work computer with no issue). Then later in the day there was apparently a brief internet outage where I had to do another modem/router reboot and that helped my phone??,neutral,0.615
