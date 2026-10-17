@@ -1167,3 +1167,4 @@ time_utc,service,lang,text,sentiment,score
 2026-10-17T15:03:19+00:00,network,en,"Fred Meyer store on W 11th in Eugene, OR is closed this morning due to a “network outage”.   #fredmeyer #oregon #eugene",negative,0.715
 2026-10-17T15:08:20+00:00,power,en,This seems like bad boding for this winter. Plan for power outages :(  www.energy.gov/articles/ene...,negative,0.942
 2026-10-17T15:12:07+00:00,power,en, #government   #hydropower   #power   #power outage   #Sri Lanka 🌐 www.newsmart.ch,negative,0.672
+2026-10-17T15:22:08+00:00,internet,en,no internet next tuesday the world is so cruel and unfair,negative,0.952
