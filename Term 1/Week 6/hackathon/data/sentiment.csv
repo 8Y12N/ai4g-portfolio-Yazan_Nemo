@@ -1186,3 +1186,6 @@ time_utc,service,lang,text,sentiment,score
 2026-10-17T16:09:03+00:00,website,en,bruh the live timing website is down im so confused,negative,0.911
 2026-10-17T16:10:37+00:00,internet,,"A document vault with nothing to monetise — no ads, no account, no internet permission.  https://play.google.com/store/apps/details?id=com.nextlt.keepsake&referrer=utm_source%3Dbluesky%26utm_medium%3Dsocial%26utm_campaign%3Dpromo_v3%26utm_content%3Dno-ads #documentscanner #privacy #android",negative,0.506
 2026-10-17T16:14:04+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839705,neutral,0.896
+2026-10-17T16:17:25+00:00,server,en,It’s like asking the janitor in the parking lot if the server went down last week.,negative,0.638
+2026-10-17T16:18:26+00:00,power,en,suffered an all island 7hr power outage lol,negative,0.748
+2026-10-17T16:20:05+00:00,power,en,🟥 Russian strikes hit 9 Ukrainian regions causing power outages and casualties  📍 Ukraine  ·  Source: Al Jazeera Live: warheatmap.app,negative,0.831
