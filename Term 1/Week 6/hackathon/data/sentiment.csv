@@ -993,3 +993,6 @@ time_utc,service,lang,text,sentiment,score
 2026-10-17T01:14:18+00:00,internet,en,This got me irrationally angry. These weirdos need to be exiled to a desert island with no internet.,negative,0.96
 2026-10-17T01:20:11+00:00,internet,en,"No land phone lines here. No close cell towers. No internet. County, so no vote on getting services either.",negative,0.713
 2026-10-17T01:23:00+00:00,internet,pt,No internet (wip),negative,0.51
+2026-10-17T01:29:46+00:00,power,en,"The goals of the Russian campaign, according to an assessment by Ukrainian intelligence intercepted from Russia: “degrading the quality of life” of Ukrainians through power outages and shutting off the water supply, to cause the “deterioration of sanitary conditions and forced outflow of residents.”",negative,0.901
+2026-10-17T01:33:05+00:00,power,en,"#DaajingGiids: 45200 block HIGHWAY 16  Out since Oct 16, 6:11 p.m. with < 5 customers out.  Crew status: No crew assigned   Cause: Under investigation  For more information, see the outage details: https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839517",neutral,0.67
+2026-10-17T01:35:17+00:00,internet,en,Tomorrow they are boycotting ai..   No internet buying …  no internet streaming … No chat or Google … Operation freeze …  Oh and No Kings Day!,negative,0.873
