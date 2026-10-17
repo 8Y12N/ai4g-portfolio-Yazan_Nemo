@@ -1098,3 +1098,5 @@ time_utc,service,lang,text
 2026-10-17T11:14:06+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839604
 2026-10-17T11:18:34+00:00,power,,Sri Lanka hit by islandwide power outage #damnews #dam
 2026-10-17T11:21:22+00:00,power,en,"#Vanderhoof: 12600 block MEADOWDALE RD  Out since Oct 17, 4:03 a.m. with < 5 customers out.  Crew status: Crew assigned   Cause: Under investigation  For more information, see the outage details: https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839581"
+2026-10-17T11:34:50+00:00,power,en,"I should probably consider this as my homeserver tailscale node went down and I'm out of town and can't fix it for a few days 😅 That or a KVM that I can power on/off over the network because it's totally a ""did you try turning it off an on again"" situation"
+2026-10-17T11:35:18+00:00,power,,Sri Lanka hit by islandwide power outage
