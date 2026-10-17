@@ -1199,3 +1199,7 @@ time_utc,service,lang,text,sentiment,score
 2026-10-17T16:47:11+00:00,power,en,After their disaster outage last Christmas SF is looking into starting our own power company,neutral,0.445
 2026-10-17T16:54:49+00:00,internet,en,I can’t find a way to rate my dasher.   My DoorDash guy this time - the internet and phones went down at work and our  facility is a dead zone  So he waited outside. I gave an additional tip.    Huh #Doordash.,negative,0.896
 2026-10-17T16:55:12+00:00,power,fi,Luhansk occupation authorities report large-scale power outages  www.pravda.com.ua/eng/news/202...  #Ukraina #Venäjä,negative,0.818
+2026-10-17T16:56:13+00:00,internet,en,The sheer joy of needing to use an unreliable Verizon cell phone connection in order to let Spectrum know that once again the internet is not working.,positive,0.553
+2026-10-17T16:58:55+00:00,website,en,"MOVE ALONG TROLL...YOUR ON THE WRONG WEBSITE!! Truth Social and X are down the street....make a left at "" your a fucking moron street""...walk a couple of blocks and make a right at ""I'm a racist and proud of it ave"" and you'll land on  ""I voted for a 32 count felon who screwed me over Court""",negative,0.911
+2026-10-17T16:59:14+00:00,internet,en,"Internet outage… UUUUGH. Metroid stream is cancelled again yall. Sorry. See you Tuesday, hopefully.",negative,0.934
+2026-10-17T17:00:09+00:00,wi-fi,en,"May your computer always say ""Wi-Fi connected, no internet""",neutral,0.646
