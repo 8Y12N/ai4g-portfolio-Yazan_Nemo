@@ -1071,3 +1071,5 @@ time_utc,service,lang,text,sentiment,score
 2026-10-17T08:30:47+00:00,cloudflare,,NET | Cloudflare (NYSE): 🔽📉 NET is DOWN this week by 17.91% (prev. week: 360.93 -> this week close: 296.30),neutral,0.774
 2026-10-17T08:46:41+00:00,internet,en,"😢After a nighttime attack, Vinnytsia was left without electricity: there is no light in the city, electric transport is not working, and there is no water.  In case the internet goes down, residents are advised to use the radio.  #Russiaisaterroriststate",negative,0.908
 2026-10-17T08:53:58+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839556,neutral,0.892
+2026-10-17T08:59:31+00:00,power,en,"Russia Strikes Ukraine’s Energy Infrastructure Across 10 Regions, Triggering Power Outages  Widespread damage: Ukraine’s Energy Ministry said Russian forces struck energy infrastructure across 10...",negative,0.891
+2026-10-17T09:00:15+00:00,github,ja,"📦 ismailnakkar/laravel-wordpress-posts v1.0.3  Draw a random published post from a WordPress database, cached, outage-tolerant and reduced to safe formatting HTML, in Laravel.  🔗 https://github.com/ismailnakkar/laravel-wordpress-posts",neutral,0.778
