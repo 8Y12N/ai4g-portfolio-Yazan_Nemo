@@ -1195,3 +1195,7 @@ time_utc,service,lang,text,sentiment,score
 2026-10-17T16:40:42+00:00,internet,en,"Oh yeah, it was definitely around the hour mark and passing me between a few phone agents. They were atrocious. And that was after 6 weeks of no internet because they couldn’t figure out how to update my router’s settings.",negative,0.941
 2026-10-17T16:44:10+00:00,power,en,The breathability is great for a very limited number of days - though power outages is one of them.,positive,0.62
 2026-10-17T16:45:37+00:00,wifi,,"Air to Ground Message:   WIFI NOT WORKING SAT SAYS OUT OF COVERAGE   Area: Grand Rapids, MI, USA  A: #ab83bf48d7e  F: #f5a615dac49",neutral,0.595
+2026-10-17T16:45:38+00:00,wifi,,"Air to Ground Message:   Wifi not working sat says out of coverage   Area: Grand Rapids, MI, USA  A: #ab83bf48d7e  F: #f5a615dac49",negative,0.508
+2026-10-17T16:47:11+00:00,power,en,After their disaster outage last Christmas SF is looking into starting our own power company,neutral,0.445
+2026-10-17T16:54:49+00:00,internet,en,I can’t find a way to rate my dasher.   My DoorDash guy this time - the internet and phones went down at work and our  facility is a dead zone  So he waited outside. I gave an additional tip.    Huh #Doordash.,negative,0.896
+2026-10-17T16:55:12+00:00,power,fi,Luhansk occupation authorities report large-scale power outages  www.pravda.com.ua/eng/news/202...  #Ukraina #Venäjä,negative,0.818
