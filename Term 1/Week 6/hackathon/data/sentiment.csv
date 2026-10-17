@@ -1203,3 +1203,5 @@ time_utc,service,lang,text,sentiment,score
 2026-10-17T16:58:55+00:00,website,en,"MOVE ALONG TROLL...YOUR ON THE WRONG WEBSITE!! Truth Social and X are down the street....make a left at "" your a fucking moron street""...walk a couple of blocks and make a right at ""I'm a racist and proud of it ave"" and you'll land on  ""I voted for a 32 count felon who screwed me over Court""",negative,0.911
 2026-10-17T16:59:14+00:00,internet,en,"Internet outage… UUUUGH. Metroid stream is cancelled again yall. Sorry. See you Tuesday, hopefully.",negative,0.934
 2026-10-17T17:00:09+00:00,wi-fi,en,"May your computer always say ""Wi-Fi connected, no internet""",neutral,0.646
+2026-10-17T17:07:58+00:00,network,en,"Demos fail fast, but production needs durability without paying for ephemeral VMs. Temporal's bare-metal workflow on Bare Metal avoids the $/hour costs and data loss risks of cloud orchestration during network outages.",neutral,0.459
+2026-10-17T17:15:33+00:00,internet,en,So this should never be a problem.  Elon: “You’re suing me?!” Some ship captain trying to launch weapons: “Our internet is down.”,negative,0.882
