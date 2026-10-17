@@ -1111,3 +1111,5 @@ time_utc,service,lang,text,sentiment,score
 2026-10-17T12:21:51+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839646,neutral,0.896
 2026-10-17T12:28:20+00:00,power,en,https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839617,neutral,0.894
 2026-10-17T12:28:36+00:00,internet,en,Kinda regret not bringing my switch. No internet means no cheevos which makes my retroid pocket 5 useless rn,negative,0.894
+2026-10-17T12:32:51+00:00,power,en,PJM Reports Operating With Only 66% Of Its Generation Capacity Available During Recent Maximum Generation Alerts; About One-Third Of The Power Plant Outages Were Unexpected  [PaEN]  tinyurl.com/y4u435sc,neutral,0.562
+2026-10-17T12:34:58+00:00,power,en,"#Quesnel: 3400 block LOLOFF RD  Out since Oct 17, 5:08 a.m. with < 5 customers out.  Crew status: No crew assigned   Cause: Under investigation  For more information, see the outage details: https://www.bchydro.com/power-outages/app/outage-map.html#outage=2839655",neutral,0.672
