@@ -1534,3 +1534,5 @@ time_utc,service,lang,text,sentiment,score
 2026-10-18T17:24:57+00:00,internet,en,"a messaging app that may help when the internet goes down  (our son once had no power/utilities and sat in the dark without means to communicate, a situation that haunts me still)  youtu.be/RiwFJ0Y9BEY?...",negative,0.907
 2026-10-18T17:25:40+00:00,internet,en,"""So your internet is down...""",negative,0.722
 2026-10-18T17:25:53+00:00,network,en,"""drone attack struck a data center belonging to Russia’s largest social network, VKontakte (VK), near St. Petersburg on October 18, disrupting digital services and coinciding with widespread power outages across parts of the city and surrounding Leningrad region.""  united24media.com/war-in-ukrai...",negative,0.894
+2026-10-18T17:32:34+00:00,power,en,You're welcome! Did you have hot water yesterday from the power outage?,neutral,0.59
+2026-10-18T17:35:17+00:00,internet,en,My internet’s not rising up and neither are the #Falcons. Quarter of the game already passed and Falcons are down 14-0 and can’t score.,negative,0.84
