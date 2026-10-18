@@ -1509,3 +1509,4 @@ time_utc,service,lang,text,sentiment,score
 2026-10-18T14:49:03+00:00,server,en,Failed to get response  ⚠️ An error has occurred. ⚠️ Internal Server Error,negative,0.799
 2026-10-18T14:55:50+00:00,power,en,Plug-in solar will not help you during a power outage!,negative,0.674
 2026-10-18T15:05:11+00:00,internet,en,"If ""they"" take down the electrical grid - there many ""theys"" and it is a real possibility - how prepared will you be for no internet, no phone, no television, no water, no gas pumps, no food distribution, and no 800 calorie drive-thru ""coffees"" within days or hours.  Call me entitled, but, people...",negative,0.821
+2026-10-18T15:16:05+00:00,power,en,"I was in Gloucestershire - trees down everywhere, slates flying off roofs, power outage, my mother was stuck between lorries that had blown over on the Severn Bridge. Yup, it was huge, probably in Borsetshire too.  #TheArchers",negative,0.867
