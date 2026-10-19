@@ -1640,3 +1640,4 @@ time_utc,service,lang,text,sentiment,score
 2026-10-19T02:33:35+00:00,network,,IT Services at Northeastern University is reportedly down due to a network outage for some users. Are you one of them? #ITServicesNortheasternUniversity #ITServiceNorthernUniversityDown  https://statusisdown.com/service/it_services_northeastern_university/,negative,0.795
 2026-10-19T02:37:10+00:00,internet,en,What was wrong with a tv that just plugged into the wall and pu could connect stuff. No internet bullshit.,negative,0.817
 2026-10-19T02:39:31+00:00,power,en,"""She made the critical mistake of trying to kill me, so I knocked her offline.""  Honestly, she stopped then and there to see if the core could put together the connection between the power outage and what she just said. Should help gauge their intelligence.",negative,0.646
+2026-10-19T03:00:09+00:00,power,en-US,"Russians attack energy facility in Ternopil Oblast again, causing power outages",negative,0.881
