@@ -1641,3 +1641,5 @@ time_utc,service,lang,text,sentiment,score
 2026-10-19T02:37:10+00:00,internet,en,What was wrong with a tv that just plugged into the wall and pu could connect stuff. No internet bullshit.,negative,0.817
 2026-10-19T02:39:31+00:00,power,en,"""She made the critical mistake of trying to kill me, so I knocked her offline.""  Honestly, she stopped then and there to see if the core could put together the connection between the power outage and what she just said. Should help gauge their intelligence.",negative,0.646
 2026-10-19T03:00:09+00:00,power,en-US,"Russians attack energy facility in Ternopil Oblast again, causing power outages",negative,0.881
+2026-10-19T03:14:06+00:00,power,,ok everyone settle in:  song you'd play during a power outage,neutral,0.65
+2026-10-19T03:16:32+00:00,server,en,There may be some outages through the day as we improve our server controls. Make sure you lose your shit and go abuse people in Spaggie's Discord like you're 12 about pixels on a screen  We will work to reduce outages but some may be unavoidable  Upgrades!,negative,0.798
