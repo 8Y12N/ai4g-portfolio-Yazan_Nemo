@@ -1677,3 +1677,7 @@ time_utc,service,lang,text,sentiment,score
 2026-10-19T09:41:11+00:00,internet,en,"Wait, are you asking what SyncDrop is? It's a completely offline, peer-to-peer file transfer app—no cloud, no internet required, just direct device-to-device local transfer over Wi-Fi.",neutral,0.756
 2026-10-19T09:51:05+00:00,openai,zh,An attacker got into OpenCode's legacy console system and may have exposed users' saved OpenAI/Anthropic/Google API keys. Storing provider keys on someone else's server was always a trust bet — this is the bill coming due. lotu.cc,negative,0.661
 2026-10-19T09:58:47+00:00,netwerk,nl,"Gaat u maar zitten, mevrouw. Hij wil geen verbinding maken met het netwerk [daarom was ik hier]. Ik ga even pushen, kijken of ie het dan doet. Uw VPN werkt wel.   Okay… Ik zit",negative,0.716
+2026-10-19T10:01:39+00:00,power,,ECG Announces Planned Power Outages Across Parts Of Accra From October 19 To 23,neutral,0.774
+2026-10-19T10:03:59+00:00,internet,en,woke up ready to stream but forgot about no internet,negative,0.569
+2026-10-19T10:07:03+00:00,power,,ECG Announces Planned Power Outages Across Parts Of Accra From October 19 To 23,neutral,0.774
+2026-10-19T10:08:46+00:00,website,,"⚠️ Panopto is reporting a Incident since 10:03 UTC  ""Panopto NA Cloud Notification 19th October 2026 - Full Site Outage""  Affects: Website, Video playback, Search, +4 more  Live timeline → https://pingoru.io/providers/panopto/incidents/12307482  #Panopto #PanoptoDown",negative,0.684
