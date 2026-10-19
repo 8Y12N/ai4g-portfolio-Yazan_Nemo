@@ -1836,3 +1836,8 @@ time_utc,service,lang,text,sentiment,score
 2026-10-19T19:53:12+00:00,discord,en,"My phone updated the other day and ever since then my discord push notifications have stopped working. They just,,, don't go away anymore",negative,0.835
 2026-10-19T20:00:30+00:00,wifi,en,"Finally got into bed for a w*nk and the WiFi is down, how can I be expected to survive under these conditions?",negative,0.895
 2026-10-19T20:10:00+00:00,internet,,Tether’s New AI Translation Needs No Internet https://www.teqiq.com/2026/10/19/tethers-new-ai-translation-needs-no-internet/ DOES YOUR PHONE SERVICE PRESENT YOU AS CUTTING-EDGE?,neutral,0.611
+2026-10-19T20:17:36+00:00,internet,en,"Depending on how much your device tells you, it can be confusing when the internet is down but the router is up.   I appreciate clearly showing that the local network is up, but the internet is down, without hiding the information somewhere. It’s just there where the 🛜 dealie is.",negative,0.753
+2026-10-19T20:18:29+00:00,website,en,Your website is not working 😳,negative,0.852
+2026-10-19T20:19:29+00:00,internet,,Tether’s New AI Translation Needs No Internet https://www.metrogeekmsp.com/2026/10/19/tethers-new-ai-translation-needs-no-internet/,neutral,0.678
+2026-10-19T20:19:44+00:00,wifi,en,"T mobile is down, my WiFi is barely working- is this happening for anyone else?",negative,0.794
+2026-10-19T20:19:53+00:00,internet,en,"I've  been away for awhile-traveling & internet outages (10 DAYS🤬). But I'm back with 125 #FREE Books for folks looking for stories of family, friendship, history, kindness, and everyday life. Available until Nov. 15. Share the love & enjoy! #Booksky books.bookfunnel.com/frontporch/2...",positive,0.549
