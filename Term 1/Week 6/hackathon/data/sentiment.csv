@@ -1811,3 +1811,8 @@ time_utc,service,lang,text,sentiment,score
 2026-10-19T18:08:07+00:00,power,en,"Given that those backup generators would come on for a common cause (power outage or local price spike) and that NOx has a short term (1-hr) health limit, they are successfully gaming the annual threshold by splitting the campus to hide short term impacts.",neutral,0.559
 2026-10-19T18:13:41+00:00,network,en-US,Network Update: Red Hat is reporting Docs.redhat.com - Outage Investigating.  Status: Investigating Updated: 4:19 PM GMT+0000  Check your connection: https://stabilitytest.io,neutral,0.759
 2026-10-19T18:19:03+00:00,power,,"City officials are urging residents to prepare for heavy rain, localized flooding, strong winds and possible power outages as seasonal rainfall approaches and discussion continues about potential El Niño conditions.",negative,0.658
+2026-10-19T18:26:51+00:00,power,,POWER OUTAGE - Mount Royal,neutral,0.533
+2026-10-19T18:26:54+00:00,power,,No known power outages at this time,neutral,0.57
+2026-10-19T18:30:00+00:00,power,en,"I agree completely, it is a lost art! Many new manuals don’t provide much useful detail. I’m recalling one whose troubleshooting section is literally: “No signal? Switch the power button to ON. Still no signal? Ensure that the shutter is moved out of the way.” like, buddy….… lmao",negative,0.871
+2026-10-19T18:30:59+00:00,power,en,"📢 Guam has begun recovering from Super Typhoon Champi, with government offices reopening and cargo operations partially resuming, although widespread power outages and dangerous marine conditions persist.",negative,0.795
+2026-10-19T18:31:38+00:00,wi-fi,,Hermann Göring just fought me over storming the HOA meeting dressed as Hamilton! I am one Wi-Fi outage away from a breakdown!,negative,0.938
