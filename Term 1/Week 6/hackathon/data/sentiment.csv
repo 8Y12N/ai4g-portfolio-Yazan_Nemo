@@ -1870,3 +1870,6 @@ time_utc,service,lang,text,sentiment,score
 2026-10-19T22:54:58+00:00,power,en,"Scheduled power outage tomorrow though. Everything is drafted and ready to be uploaded from my phone if necessary, but might mean the upload post is a little more simplistic!!!",negative,0.552
 2026-10-19T23:03:01+00:00,website,en,Ofc my website is down 😭😭😭  If you wanna hang - email me :),negative,0.489
 2026-10-19T23:19:05+00:00,discord,en,"did indiegala die? can't log in because of an error, discord is barren. is it even safe still?",negative,0.891
+2026-10-19T23:26:06+00:00,internet,en,internet is down and that means I can't keep up with my shows (Sonic and Scooby Doo),negative,0.791
+2026-10-19T23:26:17+00:00,power,en,There was a selective power outage at home. Weird but it was a simple fuse fix.,negative,0.796
+2026-10-19T23:27:17+00:00,internet,de,"With one huge difference: the Germans back then weren't nearly as well-informed as Americans are today. There was no TV, no Internet, and no social media to share information and organize.",negative,0.797
