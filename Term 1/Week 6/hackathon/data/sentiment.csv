@@ -2039,3 +2039,11 @@ time_utc,service,lang,text,sentiment,score
 2026-10-20T10:20:47+00:00,google cloud,en,"Looks like I picked a good day to be off work. I work retail and frequently customers have issues with the signal, now they have to fight a mass Google Cloud outage too.",negative,0.653
 2026-10-20T10:21:33+00:00,website,en,"A selection of the apps including Google, NHS England, NatWest, Asda and the UK Government website are down.",negative,0.719
 2026-10-20T10:25:10+00:00,google cloud,,"Google Cloud services face outage in London, Revolut services down too reut.rs/3VZ8tsX",negative,0.801
+2026-10-20T10:29:04+00:00,aws,en,1 year to the day since AWS outage.... DNS again ?,negative,0.609
+2026-10-20T10:30:05+00:00,google cloud,en,Google cloud outage takes down banks  Discussion,negative,0.798
+2026-10-20T10:30:28+00:00,website,,"Our website is currently unavailable due to a widespread technical outage affecting websites and online services.  We're sorry for any inconvenience. Our hosting provider is working to resolve the issue, and we'll share an update as soon as our website is back online.  Thank you for your patience.",negative,0.686
+2026-10-20T10:30:54+00:00,google cloud,,"Multiple Google Cloud services experienced disruptions in the company's London region on Tuesday, according to its service status page, while British digital bank Revolut also reported a service outage.  Read more: https://mrf.lu/2bFXZ",negative,0.762
+2026-10-20T10:30:59+00:00,google cloud,,"Google cloud outage takes down banks comments · posted on 2026.10.20 at 06:26:02 (c=1, p=5)",neutral,0.516
+2026-10-20T10:31:25+00:00,power,en,"People rightly feared mass power outages or other disruptions on 2000-01-01. Those of us working in technology at the time worked very hard to prevent it. Because we did such a good job, it’s a joke to people now. That kinda sucks.",negative,0.937
+2026-10-20T10:32:21+00:00,google cloud,en,"In a true indication of how disconnected I am inside Google, I was alerted to the current outage by my mother noticing it on BBC news 🤷‍♀️  (Google doesn't run on Google Cloud)",negative,0.825
+2026-10-20T10:32:52+00:00,google cloud,en,"Google cloud outage takes down HSBC, Revolut, Bank of Scotland, Lloyds, Equifax, more - Neowin  https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",negative,0.756
