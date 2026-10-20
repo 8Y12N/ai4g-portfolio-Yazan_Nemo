@@ -2003,3 +2003,6 @@ time_utc,service,lang,text,sentiment,score
 2026-10-20T09:21:00+00:00,google cloud,en,Google Cloud services experience outage in Europe - https://www.channelnewsasia.com/business/google-cloud-services-experience-outage-in-europe-6475076,negative,0.811
 2026-10-20T09:21:38+00:00,wi-fi,,Ante Pavelić just fought me over accusing their barista of election fraud! I am one Wi-Fi outage away from a breakdown!,negative,0.934
 2026-10-20T09:22:29+00:00,wifi,en,Public service announcement for anyone planning to head to the Mitchell Library today - the WiFi is down with no sense that it will be fixed any time soon.,negative,0.627
+2026-10-20T09:31:33+00:00,google cloud,,"Google Cloud services face outage in London, Revolut services down too",negative,0.743
+2026-10-20T09:31:56+00:00,website,,"🟠 TingleFlow is reporting a Partial Outage since 09:26 UTC  ""TingleFlow Accessibility Issues in Europe""  Affects: Website, Videos, Upload, +26 more  Live timeline → https://pingoru.io/providers/tingleflow/incidents/12309356  #TingleFlow #TingleFlowDown",negative,0.552
+2026-10-20T09:32:06+00:00,google cloud,,Google Cloud services experience outage in Europe,negative,0.733
