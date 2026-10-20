@@ -2148,3 +2148,14 @@ time_utc,service,lang,text,sentiment,score
 2026-10-20T12:13:36+00:00,discord,en,"@rubbery.dev Heya! My dm is not working properly, can we talk on discord or email?",neutral,0.533
 2026-10-20T12:13:45+00:00,google cloud,,Google cloud outage takes down banks https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/ (https://news.ycombinator.com/item?id=50163961),negative,0.703
 2026-10-20T12:16:09+00:00,google cloud,en,Google Cloud outage,negative,0.659
+2026-10-20T12:19:28+00:00,google cloud,,"Intel seeks FCC waiver for foreign fab robots, Google Cloud outage disrupts UK services, Nvidia, Google, Reddit - Big Tech Report",negative,0.668
+2026-10-20T12:19:30+00:00,google cloud,,"Intel seeks FCC waiver for foreign fab robots, Google Cloud outage disrupts UK services, Nvidia, Google, Reddit - Big Tech Report",negative,0.668
+2026-10-20T12:21:45+00:00,google cloud,en,BBC News - www.bbc.co.uk/news/live/c5... Google Cloud says outage affecting banks and court video links caused by 'power event' - BBC News,negative,0.65
+2026-10-20T12:22:11+00:00,power,,* He seems flattered... * His ATTACK POWER went down!,positive,0.671
+2026-10-20T12:22:59+00:00,wi-fi,,Roberto Farinacci just fought me over running for office on a platform of free guacamole! I am one Wi-Fi outage away from a breakdown!,negative,0.655
+2026-10-20T12:23:15+00:00,google cloud,en,"Key Points: 🚩What services are broken? 🚩Google says it is still working to fix problem 🚩Cloud outage is not the central issue, experts suggest 🚩UK court hearings delayed amid technical problems  The problems appeared partly linked to #Google Cloud #InternetDown  www.independent.co.uk/tech/revolut...",negative,0.519
+2026-10-20T12:23:33+00:00,google cloud,,Could a wider Google Cloud outage be behind your banking app problems?,negative,0.68
+2026-10-20T12:25:16+00:00,google cloud,,Google cloud outage takes down banks (www.neowin.net)  Discussion | Main Link,negative,0.721
+2026-10-20T12:25:30+00:00,gcp,en,"Update: The GCP power outage affecting the europe-west2 region and europe-west2-b zone has been mitigated, and the underlying GCP infrastructure has partially recovered. Our teams have initiated recovery procedures and are actively working to restore all affected services. We will continue monitori…",neutral,0.597
+2026-10-20T12:26:28+00:00,google cloud,,"Revolut's app, cards and transfers have been down since early on Tuesday in 78 countries and territories. Google Cloud lost power in part of its London region shortly before, and the two failures are reportedly linked. https://www.sovereignmagazine.com/article/revolut-down-outage-google-cloud",negative,0.875
+2026-10-20T12:28:07+00:00,website,en,"@rangedtouch.bsky.social You've probably already noticed, but all the Ranged Touch podcast feeds and the website are down with an ""Account Suspended"" notification",negative,0.74
