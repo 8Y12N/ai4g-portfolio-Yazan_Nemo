@@ -2177,3 +2177,15 @@ time_utc,service,lang,text
 2026-10-20T12:46:06+00:00,google cloud,en,"The great part of the cloud is that its SOMEONE ELSE'S computer / infra. If you build your infra correctly then someone else's computer(s) going down ain't your all hands alarm to deal with. ""Oh eur-west2 is down? Well eur-west4 is fine"" Or ""Oh the whole of Google Cloud is down. Well AWS is fine""."
 2026-10-20T12:47:49+00:00,network,en,Network outages at Google in Europe has caused numerous banks and payment systems to go down.
 2026-10-20T12:48:22+00:00,google cloud,,"⚠️ Heron Data is reporting a Incident since 12:42 UTC  ""Google cloud outage""  Live timeline → https://pingoru.io/providers/heron-data/incidents/12309705  #HeronData #HeronDataDown"
+2026-10-20T12:50:33+00:00,google cloud,en,Google Cloud outage hits U.K. banks
+2026-10-20T12:51:08+00:00,power,,SOCADEL Douala: Electricity Bills and Customer Service  A reported power outage at a SOCADEL office in Douala raises questions about electric…  https://cameroonbusinessreview.com/en/blog/socadel-douala-electricity-bills-and-customer-service?utm_source=bluesky&utm_medium=social&utm_campaign=uniposter
+2026-10-20T12:51:25+00:00,google cloud,en,Turns out it's a Google Cloud outage. Other banks impacted too.
+2026-10-20T12:52:02+00:00,google cloud,en,"Revolut ist gerade ein bisschen down, maybe Google Cloud Outage.  https://www.revolut.com/system-status/"
+2026-10-20T12:52:13+00:00,google cloud,en,Google cloud outage takes down banks [Discussion]
+2026-10-20T12:52:44+00:00,google cloud,,Google Cloud says a 'power event' caused today's outage
+2026-10-20T12:55:03+00:00,power,,Backup generators kept Transbaikal hospitals operating during power outage  The regional health ministry said backup electricity supplies maintained normal operation of  https://linksgraph.com/en/backup-generators-kept-transbaikal-hospitals-operating-during-power-outage
+2026-10-20T12:55:15+00:00,google cloud,en,"Google Cloud outage takes down Revolut, Lloyds, and other banking apps  www.businessinsider.com/google-cloud..."
+2026-10-20T12:55:52+00:00,internet,,One of the issues with internet routers is that it's not always obvious when it's not working as it should. Here's how to check if it could be on its way out.
+2026-10-20T12:56:20+00:00,google cloud,en,It's not just you: Google Cloud is down in Europe; the europe-west2 region based in London specifically.  status.cloud.google.com/incidents/Xs...
+2026-10-20T12:56:47+00:00,internet,en,📰 How to know it's time to replace your router  One of the issues with internet routers is that it's not always obvious when it's not working as it should.  Source: Engadget | Read story  💬 Key global update — what is your view on this?  #NewsBluesky #One #Issues
+2026-10-20T12:58:33+00:00,network,en,"Due to City maintenance, HPL's network is experiencing a power outage.   Currently, there are no computers, printers, Wi-Fi, self-check, or check-out (and via the HPL App) available at this time.   Please stay tuned for continual updates."
