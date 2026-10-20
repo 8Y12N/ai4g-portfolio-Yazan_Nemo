@@ -1901,3 +1901,4 @@ time_utc,service,lang,text,sentiment,score
 2026-10-20T01:32:52+00:00,github,en,GitHub Actions and Pages are down again. Everything is broken.,negative,0.89
 2026-10-20T01:34:07+00:00,power,,"Warren Bohn has kept a Brewers-era candy bar frozen since 1982, through a move, power outages and years of family life. The Milwaukee collector says he has no plans to open it—or eat it.",negative,0.541
 2026-10-20T01:36:39+00:00,internet,en,😐 No internet connection for about an hour. I started bottling my urine and froze some BM to cook later. 🙃,negative,0.822
+2026-10-20T01:54:43+00:00,power,,"UPDATE: The outage which left nearly 3,000 people without power in Vermilion County Monday night was caused by a vehicle “coming into contact” with electrical equipment.",negative,0.661
