@@ -70,7 +70,7 @@ User input (paste text or upload PDF)
 
 Tech stack: Python, FastAPI, pdfplumber, google-genai SDK, Vue 3, SQLite, Gemini API (gemini-3.1-flash-lite)
 
-Link to the live thing (if any):
+Link to the live thing (if any): https://youtu.be/vY8uKPEgCg8
 Screen recording in presentation/
 
 **How do I run it?**
